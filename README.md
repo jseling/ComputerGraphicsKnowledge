@@ -5,3 +5,4 @@
 - [The Ultimate DirectX Tutorial](http://www.directxtutorial.com/LessonList.aspx?listid=11)
 - [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
 - [Learn OpenGL](https://learnopengl.com/Introduction)
+- [NonEuclidean rendering engine](https://github.com/HackerPoet/NonEuclidean)
