@@ -7,6 +7,7 @@
 - [Learn OpenGL](https://learnopengl.com/Introduction)
 - [NonEuclidean rendering engine](https://github.com/HackerPoet/NonEuclidean)
 - :clapper:[C++ 3D Game Tutorial: Creating DirectX 3D Engine ](https://www.youtube.com/watch?v=ssGka-bSTvQ&list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy)
+- :clapper:[chernos](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
 - [Quadtree vs Spatial Hashing - a Visualization](http://zufallsgenerator.github.io/2014/01/26/visually-comparing-algorithms/)
 - [The Book of Shaders](https://thebookofshaders.com/)
 
