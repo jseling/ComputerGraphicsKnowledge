@@ -10,6 +10,7 @@
 - :clapper:[chernos](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
 - [Quadtree vs Spatial Hashing - a Visualization](http://zufallsgenerator.github.io/2014/01/26/visually-comparing-algorithms/)
 - [The Book of Shaders](https://thebookofshaders.com/)
+- [How to make your game run at 60fps- a blog post that goes into depth about frame timing code](https://en.reddit.com/r/gamedev/comments/ax2sbn/how_to_make_your_game_run_at_60fps_a_blog_post/)
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
