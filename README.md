@@ -13,6 +13,8 @@
 - [How to make your game run at 60fps- a blog post that goes into depth about frame timing code](https://en.reddit.com/r/gamedev/comments/ax2sbn/how_to_make_your_game_run_at_60fps_a_blog_post/)
 - [Advanced Terrain Texture Splatting: REDDIT](https://en.reddit.com/r/gamedev/comments/b07fwk/advanced_terrain_texture_splatting/)
 - [Advanced Terrain Texture Splatting: LINK](https://habr.com/en/post/442924/)
+- [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
