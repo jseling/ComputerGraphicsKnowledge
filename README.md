@@ -14,6 +14,7 @@
 - [Advanced Terrain Texture Splatting: REDDIT](https://en.reddit.com/r/gamedev/comments/b07fwk/advanced_terrain_texture_splatting/)
 - [Advanced Terrain Texture Splatting: LINK](https://habr.com/en/post/442924/)
 - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+- [Resources for Learning Graphics Programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
 
 
 # Delphi/Pascal
