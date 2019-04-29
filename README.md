@@ -17,6 +17,9 @@
 - [Resources for Learning Graphics Programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
 - [Y axis up or Z axis up?](https://en.reddit.com/r/gamedev/comments/b6ujvb/y_axis_up_or_z_axis_up/)
 
+# AI
+- [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
+
 # GameDev
 - [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
 
