@@ -16,6 +16,9 @@
 - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 - [Resources for Learning Graphics Programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
 - [Y axis up or Z axis up?](https://en.reddit.com/r/gamedev/comments/b6ujvb/y_axis_up_or_z_axis_up/)
+- [Matrix Transformations](https://jsantell.com/matrix-transformations)
+- [3D Projection](https://jsantell.com/3d-projection)
+- [Model View Projection](https://jsantell.com/model-view-projection)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
