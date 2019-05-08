@@ -23,6 +23,10 @@
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
 
+# Algorithms
+- [Barnes–Hut simulation n-Body - Wikipedia](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
+- [The Barnes-Hut Algorithm](http://arborjs.org/docs/barnes-hut)
+
 # GameDev
 - [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
 - [How to Build a Multiplayer (.io) Web Game, Part 1](https://victorzhou.com/blog/build-an-io-game-part-1/)
