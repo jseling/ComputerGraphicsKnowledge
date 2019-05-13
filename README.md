@@ -19,6 +19,7 @@
 - [Matrix Transformations](https://jsantell.com/matrix-transformations)
 - [3D Projection](https://jsantell.com/3d-projection)
 - [Model View Projection](https://jsantell.com/model-view-projection)
+- [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
