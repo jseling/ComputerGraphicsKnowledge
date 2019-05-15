@@ -21,6 +21,7 @@
 - [Model View Projection](https://jsantell.com/model-view-projection)
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Why do game developers prefer Windows?](https://softwareengineering.stackexchange.com/questions/60544/why-do-game-developers-prefer-windows/88055#88055)
+- [TaiChi: Open-source computer graphics library ](http://taichi.graphics/)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
