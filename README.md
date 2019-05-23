@@ -31,6 +31,9 @@
 ## WebGL
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
+## Math
+- [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
+
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
 
