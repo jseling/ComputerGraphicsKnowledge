@@ -28,6 +28,9 @@
 - [Learn OpenGL](https://learnopengl.com/Introduction)
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
 
+## WebGL
+- [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
 
