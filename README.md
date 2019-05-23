@@ -4,7 +4,6 @@
 - [Choosing a Graphics API](http://www.rastertek.com/choosing.html)
 - [The Ultimate DirectX Tutorial](http://www.directxtutorial.com/LessonList.aspx?listid=11)
 - [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
-- [Learn OpenGL](https://learnopengl.com/Introduction)
 - [NonEuclidean rendering engine](https://github.com/HackerPoet/NonEuclidean)
 - :clapper:[C++ 3D Game Tutorial: Creating DirectX 3D Engine ](https://www.youtube.com/watch?v=ssGka-bSTvQ&list=PLv8DnRaQOs5-ST_VDqgbbMRtzMtpK36Hy)
 - :clapper:[chernos](https://www.youtube.com/playlist?list=PLlrATfBNZ98fqE45g3jZA_hLGUrD4bo6_)
@@ -22,6 +21,10 @@
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Why do game developers prefer Windows?](https://softwareengineering.stackexchange.com/questions/60544/why-do-game-developers-prefer-windows/88055#88055)
 - [TaiChi: Open-source computer graphics library ](http://taichi.graphics/)
+
+## OpenGL
+- [Learn OpenGL](https://learnopengl.com/Introduction)
+- [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
