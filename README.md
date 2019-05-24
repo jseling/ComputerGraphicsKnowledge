@@ -34,6 +34,9 @@
 ## Math
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 
+## Rendering
+- [Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
+
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
 
