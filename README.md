@@ -1,6 +1,7 @@
 # ComputerGraphicsKnowledge
 
-- [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+- :star:[How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
+- :star:[Learn Computer Graphics From Scratch!](http://www.scratchapixel.com/index.php?redirect)
 - [Choosing a Graphics API](http://www.rastertek.com/choosing.html)
 - [The Ultimate DirectX Tutorial](http://www.directxtutorial.com/LessonList.aspx?listid=11)
 - [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
@@ -35,7 +36,7 @@
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 
 ## Rendering
-- [Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
+- :star:[Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
