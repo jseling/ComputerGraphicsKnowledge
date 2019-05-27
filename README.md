@@ -37,6 +37,7 @@
 
 ## Rendering
 - :star:[Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
+- [DECYPHERING THE BUSINESS CARD RAYTRACER](http://fabiensanglard.net/rayTracing_back_of_business_card/index.php)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
