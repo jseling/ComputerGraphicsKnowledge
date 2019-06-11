@@ -43,6 +43,9 @@
 - [C++ vs OCaml: Ray tracer comparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html)
 - [smallpt: Global Illumination in 99 lines of C++](http://www.kevinbeason.com/smallpt/)
 
+## Image
+- [Unraveling
+the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
