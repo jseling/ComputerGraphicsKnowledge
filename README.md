@@ -43,6 +43,37 @@
 - [C++ vs OCaml: Ray tracer comparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html)
 - [smallpt: Global Illumination in 99 lines of C++](http://www.kevinbeason.com/smallpt/)
 
+```pascal
+faceVertices: TStringList;
+faceVertice: TStringList;
+AFace := TArray<Integer>;
+
+Setlength(AFace, 0);
+
+faceVertices := TStringList.Create;
+faceVertices.Delimiter := ' ';
+faceVertices.DelimitedText := line;
+
+for i:=1 to faceVertices.Count -1 do
+begin
+	faceVertice := TStringList.Create;
+
+	faceVertice.Delimiter := '/';
+	faceVertice.DelimitedText := faceVertices[i];
+	
+	//faceVertice[0]; //vertice
+	//faceVertice[1]; //texture
+	//faceVertice[2]; //normal
+	
+	AddItem(AFace, StrToInt(faceVertice[0]));
+	faceVertice.Free;
+end;
+
+AddFaces(AFace);
+
+faceVertices.free;
+```
+
 ## Image
 - [Unraveling
 the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
