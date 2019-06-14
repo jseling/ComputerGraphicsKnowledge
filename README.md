@@ -42,9 +42,9 @@
 - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 - [C++ vs OCaml: Ray tracer comparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html)
 - [smallpt: Global Illumination in 99 lines of C++](http://www.kevinbeason.com/smallpt/)
-- [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
-- [Ray Tracing: The Next Week](https://github.com/petershirley/raytracingthenextweek)
-- [Ray Tracing: The Rest Of Your Life](https://github.com/petershirley/raytracingtherestofyourlife)
+- :book:[Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
+- :book:[Ray Tracing: The Next Week](https://github.com/petershirley/raytracingthenextweek)
+- :book:[Ray Tracing: The Rest Of Your Life](https://github.com/petershirley/raytracingtherestofyourlife)
 - :book:[Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
 
 ## Image
