@@ -35,6 +35,7 @@
 
 ## Math
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
+- :book:[Mathematics for 3D Game Programming and Computer Graphics](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
 
 ## Rendering
 - :star:[Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
