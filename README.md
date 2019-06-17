@@ -67,6 +67,34 @@ begin
 	
 	Result := TVector3f.Create(1 - (u.x + u.y) / u.z, u.y / u.z, u.x / u.z);
 end;
+
+TBuffer: array of array of TVector3f;  
+
+TFramebuffer = class
+private
+	FHeight: Integer;
+	FWidth: Integer;
+	FBuffer: TBuffer; 
+public 
+	property Height: Integer read FHeight;
+	property Width: Integer read FWidth;
+	property Buffer: TBuffer read FBuffer;
+	
+	constructor Create(_AHeight, _AWidth: Integer);
+end;
+
+constructor TFramebuffer.Create(_AHeight, _AWidth: Integer);
+var
+	i: Integer;
+begin
+	FHeight := _AHeight;
+	FWidth := _AWidth;
+	SetLenght(FBuffer, _AWidth);
+	for i := Low(FBuffer) to High(FBuffer) do
+	begin
+		SetLegth(FBuffer[i], _AHeight);
+	end;
+end;
 ```
 
 ## Image
