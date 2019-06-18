@@ -51,24 +51,6 @@
 - :book:[Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
 
 ```pascal
-function Barycentric(_APts TArray<TVector2i>; _AP: TVector2i): TVector3f;
-var
-	u: TVector3f;
-	A, B: TVector3f;
-begin
-	A := TVector3f.Create(pts[2].X-pts[0].X, pts[1].X-pts[0].X, pts[0].X-P.X);
-	B := TVector3f.Create(pts[2].Y-pts[0].Y, pts[1].Y-pts[0].Y, pts[0].Y-P.Y);
-	u := A.CrossProduct(B);
-	
-	if Abs(u.Z) < 1 then
-	begin
-		Result := TVector3f.Create(-1, 1, 1);
-		exit;
-	end;
-	
-	Result := TVector3f.Create(1 - (u.x + u.y) / u.z, u.y / u.z, u.x / u.z);
-end;
-
 TBuffer: array of array of TVector3f;  
 
 TFramebuffer = class
