@@ -52,7 +52,8 @@
 - :book:[Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
 
 ```pascal
-TBuffer: array of array of TVector3f;  
+//TBuffer: array of array of TVector3f;  
+TBuffer: array of TVector3f;
 
 TFramebuffer = class
 private
@@ -65,6 +66,8 @@ public
 	property Buffer: TBuffer read FBuffer;
 	
 	constructor Create(_AHeight, _AWidth: Integer);
+	procedure SetPixel(x, y: Integer; color: TVector3f);
+	function GetPixel(x, y: Integer): TVector3f;
 end;
 
 constructor TFramebuffer.Create(_AHeight, _AWidth: Integer);
@@ -73,11 +76,22 @@ var
 begin
 	FHeight := _AHeight;
 	FWidth := _AWidth;
-	SetLenght(FBuffer, _AWidth);
-	for i := Low(FBuffer) to High(FBuffer) do
-	begin
-		SetLegth(FBuffer[i], _AHeight);
-	end;
+	//SetLenght(FBuffer, _AWidth);
+	//for i := Low(FBuffer) to High(FBuffer) do
+	//begin
+	//	SetLegth(FBuffer[i], _AHeight);
+	//end;
+	SetLenght(FBuffer, _AWidth * _AHeight);
+end;
+
+procedure TFramebuffer.SetPixel(x, y: Integer; color: TVector3f);
+begin
+	FBuffer[x + y * FWidth] := color;
+end;
+
+function TFramebuffer.GetPixel(x, y: Integer): TVector3f;
+begin
+	result := FBuffer[x + y * FWidth];
 end;
 ```
 
