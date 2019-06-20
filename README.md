@@ -40,6 +40,9 @@
 - [Vector products](http://geomalgorithms.com/vector_products.html)
 - :book:[Mathematics for 3D Game Programming and Computer Graphics](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
 
+## Physics
+- [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
+
 ## Rendering
 - :star:[Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
 - [DECYPHERING THE BUSINESS CARD RAYTRACER](http://fabiensanglard.net/rayTracing_back_of_business_card/index.php)
