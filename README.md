@@ -38,6 +38,7 @@
 ## Math
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 - [Vector products](http://geomalgorithms.com/vector_products.html)
+- [The Art of Lerp](https://lunarlabs.pt/blog/post/the_art_of_lerp)
 - :book:[Mathematics for 3D Game Programming and Computer Graphics](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
 
 ## Physics
