@@ -99,6 +99,9 @@ begin
 end;
 ```
 
+## Animation
+- [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
+
 ## Image
 - [Unraveling
 the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
