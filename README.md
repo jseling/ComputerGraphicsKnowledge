@@ -36,6 +36,7 @@
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 
 ## Math
+- [Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 - [Vector products](http://geomalgorithms.com/vector_products.html)
 - [The Art of Lerp](https://lunarlabs.pt/blog/post/the_art_of_lerp)
