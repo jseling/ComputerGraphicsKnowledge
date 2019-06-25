@@ -61,6 +61,9 @@
 ## Hand Made Rendering
 - [austin/soft-3d-renderer](https://code.austinmorlan.com/austin/soft-3d-renderer/src/branch/master)
 
+## Terrain generation
+- [3d terrain generation REDDIT TALK](https://en.reddit.com/r/proceduralgeneration/comments/2x529j/lets_talk_about_terrain_generation_in_3d_warning/)
+
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
 
