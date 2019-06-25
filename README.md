@@ -34,6 +34,7 @@
 
 ## WebGL
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+- [MinMaxIA](http://www.minmaxia.com/minmaxia/)
 
 ## Math
 - [Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
