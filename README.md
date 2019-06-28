@@ -37,7 +37,7 @@
 - [MinMaxIA](http://www.minmaxia.com/minmaxia/)
 
 ## Math
-- [Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
+- book:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 - [Vector products](http://geomalgorithms.com/vector_products.html)
 - [The Art of Lerp](https://lunarlabs.pt/blog/post/the_art_of_lerp)
