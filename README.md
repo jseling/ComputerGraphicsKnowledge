@@ -58,6 +58,7 @@
 - :book:[Ray Tracing: The Rest Of Your Life](https://github.com/petershirley/raytracingtherestofyourlife)
 - :book:[Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
 - [A trip through the Graphics Pipeline 2011: Index](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
+- [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/)
 
 ## Hand Made Rendering
 - [austin/soft-3d-renderer](https://code.austinmorlan.com/austin/soft-3d-renderer/src/branch/master)
