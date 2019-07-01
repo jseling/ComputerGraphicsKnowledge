@@ -33,6 +33,7 @@
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
 
 ## WebGL
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 - [MinMaxIA](http://www.minmaxia.com/minmaxia/)
 
