@@ -25,6 +25,7 @@
 - [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Why do game developers prefer Windows?](https://softwareengineering.stackexchange.com/questions/60544/why-do-game-developers-prefer-windows/88055#88055)
 - [TaiChi: Open-source computer graphics library ](http://taichi.graphics/)
+- :clapper:[Game Development Tutorials](https://www.youtube.com/user/Cercopithecan/playlists)
 
 ## OpenGL
 - [Getting Started](https://www.khronos.org/opengl/wiki/Getting_Started)
