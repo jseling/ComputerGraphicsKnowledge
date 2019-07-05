@@ -84,6 +84,7 @@ the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 # GameDev
 - [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
 - [How to Build a Multiplayer (.io) Web Game, Part 1](https://victorzhou.com/blog/build-an-io-game-part-1/)
+- [Let’s Make: Dangerous Dave](https://www.maizure.org/projects/lets-make-dangerous-dave/index.html)
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
