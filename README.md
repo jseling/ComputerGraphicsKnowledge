@@ -33,11 +33,6 @@
 - [Learn OpenGL](https://learnopengl.com/Introduction)
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
 
-## WebGL
-- [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
-- [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
-- [MinMaxIA](http://www.minmaxia.com/minmaxia/)
-
 ## Math
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
@@ -91,6 +86,9 @@ the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - https://github.com/AntonAngeloff/DX11_Examples
 
 # WebGL
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
+- [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+- [MinMaxIA](http://www.minmaxia.com/minmaxia/)
 - [Volume Rendering with WebGL](https://www.willusher.io/webgl/2019/01/13/volume-rendering-with-webgl)
 
 ## Opinions
