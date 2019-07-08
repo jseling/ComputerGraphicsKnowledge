@@ -35,6 +35,7 @@
 
 ## Math
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
+- [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
 - [Vector products](http://geomalgorithms.com/vector_products.html)
 - [The Art of Lerp](https://lunarlabs.pt/blog/post/the_art_of_lerp)
