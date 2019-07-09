@@ -91,6 +91,7 @@ the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 - [MinMaxIA](http://www.minmaxia.com/minmaxia/)
 - [Volume Rendering with WebGL](https://www.willusher.io/webgl/2019/01/13/volume-rendering-with-webgl)
+- [3D Wireframes in SVG](https://prideout.net/blog/svg_wireframes/)
 
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
