@@ -76,6 +76,8 @@ the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 # Algorithms
 - [Barnes–Hut simulation n-Body - Wikipedia](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
 - [The Barnes-Hut Algorithm](http://arborjs.org/docs/barnes-hut)
+- [Convex Hull Generation with Quick Hull Randy Gaul](http://www.randygaul.net/wp-content/uploads/2013/11/QuickHull.pdf)
+- [Implementing Quick Hull - Valve](http://box2d.org/files/GDC2014/DirkGregorius_ImplementingQuickHull.pdf)
 
 # GameDev
 - [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
