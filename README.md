@@ -28,10 +28,14 @@
 - :clapper:[Game Development Tutorials](https://www.youtube.com/user/Cercopithecan/playlists)
 
 ## OpenGL
+Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
 - [Getting Started](https://www.khronos.org/opengl/wiki/Getting_Started)
 - [The Official Guide to Learning OpenGL, Version 1.1 - OpenGL Red Book](https://www.glprogramming.com/red/)
 - [Learn OpenGL](https://learnopengl.com/Introduction)
+- [Modern OpenGL](https://glumpy.github.io/modern-gl.html)
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
+- [opengl-tutorial](http://www.opengl-tutorial.org/)
+- [OpenGL Modern Tutorials](http://ogldev.atspace.co.uk/index.html)
 
 ## Math
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
