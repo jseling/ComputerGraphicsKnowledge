@@ -37,6 +37,14 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [opengl-tutorial](http://www.opengl-tutorial.org/)
 - [OpenGL Modern Tutorials](http://ogldev.atspace.co.uk/index.html)
 
+## DirectX
+- [Learning DirectX 12 – Lesson 1 – Initialize DirectX 12](https://www.3dgep.com/learning-directx12-1/)
+- [DirectX 12 Programming #1: A quickstart!](https://digitalerr0r.net/2015/08/19/quickstart-directx-12-programming/)
+- [Direct3D 12 programming guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide)
+- [DirectX 12 by example](https://nikitablack.github.io/2016/07/23/Direct-X-12-by-example.html)
+- [Getting started with D3D12](https://anteru.net/blog/2015/getting-started-with-d3d12/)
+- [DX12 Useful links](https://devblogs.microsoft.com/directx/useful-links/)
+
 ## Math
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
 - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
