@@ -36,6 +36,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
 - [opengl-tutorial](http://www.opengl-tutorial.org/)
 - [OpenGL Modern Tutorials](http://ogldev.atspace.co.uk/index.html)
+- [Learning Modern 3D Graphics Programming](https://alfonse.bitbucket.io/oldtut/index.html)
 
 ## DirectX
 - [Learning DirectX 12 – Lesson 1 – Initialize DirectX 12](https://www.3dgep.com/learning-directx12-1/)
