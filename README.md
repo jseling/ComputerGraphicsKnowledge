@@ -80,8 +80,10 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
 
 ## Image
-- [Unraveling
-the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+
+## Color
+- [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
