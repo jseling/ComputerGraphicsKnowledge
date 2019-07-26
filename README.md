@@ -83,6 +83,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 
 ## Color
+- [Color Spaces](https://ciechanow.ski/color-spaces/)
 - [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
 
 # AI
