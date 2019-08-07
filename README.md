@@ -76,6 +76,12 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ## Terrain generation
 - [3d terrain generation REDDIT TALK](https://en.reddit.com/r/proceduralgeneration/comments/2x529j/lets_talk_about_terrain_generation_in_3d_warning/)
 
+## Perlin Noise
+- [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
+- [Understanding Perlin Noise](https://flafla2.github.io/2014/08/09/perlinnoise.html)
+- [Ruído de Perlin](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
+- [Using Perlin Noise to Generate 2D Terrain and Water](https://gpfault.net/posts/perlin-noise.txt.html)
+
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
 
