@@ -75,6 +75,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 
 ## Terrain generation
 - [3d terrain generation REDDIT TALK](https://en.reddit.com/r/proceduralgeneration/comments/2x529j/lets_talk_about_terrain_generation_in_3d_warning/)
+- [MARTINI: Real-Time RTIN Terrain Mesh](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh)
 
 ## Perlin Noise
 - [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
