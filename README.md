@@ -26,6 +26,7 @@
 - [Why do game developers prefer Windows?](https://softwareengineering.stackexchange.com/questions/60544/why-do-game-developers-prefer-windows/88055#88055)
 - [TaiChi: Open-source computer graphics library ](http://taichi.graphics/)
 - :clapper:[Game Development Tutorials](https://www.youtube.com/user/Cercopithecan/playlists)
+- :book:[Math for Programmers](https://livebook.manning.com/book/math-for-programmers/chapter-3/v-6/23)
 
 ## OpenGL
 Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
