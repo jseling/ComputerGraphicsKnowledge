@@ -93,6 +93,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ## Color
 - [Color Spaces](https://ciechanow.ski/color-spaces/)
 - [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
+- [Turbo, An Improved Rainbow Colormap for Visualization](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
