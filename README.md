@@ -105,6 +105,8 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Convex Hull Generation with Quick Hull Randy Gaul](http://www.randygaul.net/wp-content/uploads/2013/11/QuickHull.pdf)
 - [Implementing Quick Hull - Valve](http://box2d.org/files/GDC2014/DirkGregorius_ImplementingQuickHull.pdf)
 - [QuickHull 3D](http://algolist.manual.ru/maths/geom/convhull/qhull3d.php)
+- [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
+- [Hex Grid Geometry for Game Developers ](http://www.gamelogic.co.za/downloads/HexMath2.pdf)
 
 # GameDev
 - [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
