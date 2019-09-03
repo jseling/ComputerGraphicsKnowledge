@@ -131,6 +131,8 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [MinMaxIA](http://www.minmaxia.com/minmaxia/)
 - [Volume Rendering with WebGL](https://www.willusher.io/webgl/2019/01/13/volume-rendering-with-webgl)
 - [3D Wireframes in SVG](https://prideout.net/blog/svg_wireframes/)
+- [100 lines constelation](http://slicker.me/javascript/particles.htm)
+
 
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
