@@ -27,6 +27,7 @@
 - [TaiChi: Open-source computer graphics library ](http://taichi.graphics/)
 - :clapper:[Game Development Tutorials](https://www.youtube.com/user/Cercopithecan/playlists)
 - :book:[Math for Programmers](https://livebook.manning.com/book/math-for-programmers/chapter-3/v-6/23)
+- :book:[Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
 
 ## OpenGL
 Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
