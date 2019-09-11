@@ -58,6 +58,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - :book:[Mathematics for 3D Game Programming and Computer Graphics](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
 - [Gamedev Tutorial: Trigonometry Basics – Sine & Cosine](http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/)
 - [Sin & Cos: The Programmer's Pals!](https://www.helixsoft.nl/articles/circle/sincos.htm)
+- [The Magnificent 2D Matrix](https://ncase.me/matrix/)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
