@@ -124,6 +124,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Let’s Make: Dangerous Dave](https://www.maizure.org/projects/lets-make-dangerous-dave/index.html)
 - [RogheLike Articles](http://www.roguebasin.com/index.php?title=Articles#Map)
 - [Awesome game networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
+- [Roguelike Tutorial Revised - TCOD Version](http://rogueliketutorials.com/tutorials/tcod/)
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
