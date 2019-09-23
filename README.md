@@ -125,6 +125,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [RogheLike Articles](http://www.roguebasin.com/index.php?title=Articles#Map)
 - [Awesome game networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
 - [Roguelike Tutorial Revised - TCOD Version](http://rogueliketutorials.com/tutorials/tcod/)
+- [Reddit: How Does Multiplayer / Networking Work?](https://en.reddit.com/r/gamedev/comments/d7u27u/how_does_multiplayer_networking_work/)
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
