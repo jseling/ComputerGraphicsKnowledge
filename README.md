@@ -77,6 +77,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [A trip through the Graphics Pipeline 2011: Index](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/)
 - [Modern text rendering with Linux: Antialiasing](https://mrandri19.github.io/2019/08/08/modern-text-rendering-linux-ep2.html)
+- [Ray Tracing Denoising](https://alain.xyz/blog/raytracing-denoising)
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
