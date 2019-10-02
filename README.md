@@ -140,6 +140,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Volume Rendering with WebGL](https://www.willusher.io/webgl/2019/01/13/volume-rendering-with-webgl)
 - [3D Wireframes in SVG](https://prideout.net/blog/svg_wireframes/)
 - [100 lines constelation](http://slicker.me/javascript/particles.htm)
+- [Interior Visualization](https://playcanv.as/p/ZV4PW6wr/)
 
 
 ## Opinions
