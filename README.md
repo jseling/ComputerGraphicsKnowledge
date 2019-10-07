@@ -78,6 +78,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/)
 - [Modern text rendering with Linux: Antialiasing](https://mrandri19.github.io/2019/08/08/modern-text-rendering-linux-ep2.html)
 - [Ray Tracing Denoising](https://alain.xyz/blog/raytracing-denoising)
+- [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
@@ -89,6 +90,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ## Terrain generation
 - [3d terrain generation REDDIT TALK](https://en.reddit.com/r/proceduralgeneration/comments/2x529j/lets_talk_about_terrain_generation_in_3d_warning/)
 - [MARTINI: Real-Time RTIN Terrain Mesh](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh)
+- [Fractional Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
 
 ## Perlin Noise
 - [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
