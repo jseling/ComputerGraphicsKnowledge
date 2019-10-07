@@ -111,6 +111,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Color Spaces](https://ciechanow.ski/color-spaces/)
 - [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
 - [Turbo, An Improved Rainbow Colormap for Visualization](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
+- [Fast HSV to RGB Conversion](http://www.vagrearg.org/content/hsvrgb)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
