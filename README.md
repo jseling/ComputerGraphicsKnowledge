@@ -104,6 +104,8 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 
 ## Image
 - [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- [Images done right:
+Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques)
 
 ## Color
 - [Color Spaces](https://ciechanow.ski/color-spaces/)
