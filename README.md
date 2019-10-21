@@ -115,6 +115,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
+- [Pathfinding Algorithms](https://medium.com/@chopra.chet/pathfinding-algorithms-6c0d4febe8fd)
 
 # Algorithms
 - [Barnes–Hut simulation n-Body - Wikipedia](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
