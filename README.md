@@ -29,6 +29,7 @@
 - :clapper:[Programming and Technology Tutorials](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos)
 - :book:[Math for Programmers](https://livebook.manning.com/book/math-for-programmers/chapter-3/v-6/23)
 - :book:[Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
+- :star:[Nick's Blog](http://weigert.vsos.ethz.ch/)
 
 ## OpenGL
 Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
@@ -135,6 +136,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Awesome game networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
 - [Roguelike Tutorial Revised - TCOD Version](http://rogueliketutorials.com/tutorials/tcod/)
 - [Reddit: How Does Multiplayer / Networking Work?](https://en.reddit.com/r/gamedev/comments/d7u27u/how_does_multiplayer_networking_work/)
+- [Homebrew Voxel Engine](http://weigert.vsos.ethz.ch/2019/10/27/homebrew-voxel-engine/)
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
