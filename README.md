@@ -151,6 +151,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [100 lines constelation](http://slicker.me/javascript/particles.htm)
 - [Interior Visualization](https://playcanv.as/p/ZV4PW6wr/)
 - [Raytraced sphere #1](https://turtletoy.net/turtle/11075dfee0)
+- [Using WebGL to Solve a Practical Problem](https://medium.com/@jefferey.cave/using-webgl-to-solve-a-practical-problem-751c186889aa)
 
 
 ## Opinions
