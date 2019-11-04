@@ -30,6 +30,10 @@
 - :book:[Math for Programmers](https://livebook.manning.com/book/math-for-programmers/chapter-3/v-6/23)
 - :book:[Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
 - :star:[Nick's Blog](http://weigert.vsos.ethz.ch/)
+- [distance functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
+- [RAY TRACING A TINY PROCEDURAL PLANET](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+- [iquilezles ShaderToy](https://www.shadertoy.com/user/iq)
+
 
 ## OpenGL
 Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
