@@ -85,6 +85,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Modern text rendering with Linux: Antialiasing](https://mrandri19.github.io/2019/08/08/modern-text-rendering-linux-ep2.html)
 - [Ray Tracing Denoising](https://alain.xyz/blog/raytracing-denoising)
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
+- [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
