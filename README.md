@@ -88,6 +88,14 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 - [Global Illumination and Path Tracing](https://www.scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing)
 
+### Concepts and Techniques
+- [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
+- [Rendering equation](https://en.wikipedia.org/wiki/Rendering_equation)
+
+### Voxel
+- [Layered voxel rendering](https://jobtalle.com/layered_voxel_rendering.html)
+- [Voxel to Mesh Conversion: Marching Cube Algorithm](https://medium.com/zeg-ai/voxel-to-mesh-conversion-marching-cube-algorithm-43dbb0801359)
+
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
 
@@ -106,6 +114,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Ruído de Perlin](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
 - [Using Perlin Noise to Generate 2D Terrain and Water](https://gpfault.net/posts/perlin-noise.txt.html)
 - [Let’s make some noise!](https://medium.com/carwow-product-engineering/lets-make-some-noise-53a35d56c41e)
+- [Cubic noise](https://jobtalle.com/cubic_noise.html)
 
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
