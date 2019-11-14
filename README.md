@@ -86,6 +86,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Ray Tracing Denoising](https://alain.xyz/blog/raytracing-denoising)
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
+- [Global Illumination and Path Tracing](https://www.scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing)
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
