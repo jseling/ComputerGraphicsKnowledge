@@ -172,6 +172,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - :clapper:[Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF)
 - [WebGL/three.js Resources](http://www.realtimerendering.com/webgl.html)
 - [Instanced Line Rendering](https://wwwtyro.net/2019/11/18/instanced-lines.html)
+- :star:[Bruno Simon](https://bruno-simon.com/)
 
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
