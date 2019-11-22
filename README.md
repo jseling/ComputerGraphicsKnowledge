@@ -129,6 +129,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Alpha Compositing](https://ciechanow.ski/alpha-compositing/)
 - [Turbo, An Improved Rainbow Colormap for Visualization](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
 - [Fast HSV to RGB Conversion](http://www.vagrearg.org/content/hsvrgb)
+- [Random RGB values that average to N; or, Pointlessness and Probability](https://kevingal.com/blog/rgb-average.html)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
@@ -173,6 +174,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [WebGL/three.js Resources](http://www.realtimerendering.com/webgl.html)
 - [Instanced Line Rendering](https://wwwtyro.net/2019/11/18/instanced-lines.html)
 - :star:[Bruno Simon](https://bruno-simon.com/)
+- [Bruno Simon — Portfolio (case study)](https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b)
 
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
