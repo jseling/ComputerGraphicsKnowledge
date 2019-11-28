@@ -123,6 +123,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [Images done right:
 Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques)
+- [Histogram-preserving Blending for Randomized Texture Tiling](https://benedikt-bitterli.me/histogram-tiling/)
 
 ## Color
 - [Color Spaces](https://ciechanow.ski/color-spaces/)
