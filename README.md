@@ -119,6 +119,12 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
 
+## Tetris
+- [Learning Modern JavaScript with Tetris](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
+- [Tetris in 100 lines of JS](https://alaricus.github.io/SimpleTetris/)
+- [Tetris in 100 lines of JS: gitHub](https://github.com/Alaricus/SimpleTetris)
+- [JS ClassicTetris](https://alaricus.github.io/Tetris/)
+
 ## Image
 - [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 - [Images done right:
