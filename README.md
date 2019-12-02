@@ -33,7 +33,7 @@
 - [distance functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm)
 - [RAY TRACING A TINY PROCEDURAL PLANET](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 - [iquilezles ShaderToy](https://www.shadertoy.com/user/iq)
-
+- [Writing a texture painter: Part 1](https://medium.com/@strattonbrazil/writing-a-texture-painter-part-1-f0d732d287d1)
 
 ## OpenGL
 Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
@@ -131,6 +131,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Turbo, An Improved Rainbow Colormap for Visualization](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
 - [Fast HSV to RGB Conversion](http://www.vagrearg.org/content/hsvrgb)
 - [Random RGB values that average to N; or, Pointlessness and Probability](https://kevingal.com/blog/rgb-average.html)
+- [RGB/XYZ Conversion Matrix Accuracy](http://terathon.com/blog/rgb-xyz-conversion-matrix-accuracy/)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
