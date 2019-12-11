@@ -108,7 +108,10 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [MARTINI: Real-Time RTIN Terrain Mesh](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh)
 - [Fractional Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
 
-## Perlin Noise
+## Procedural Generators
+- [L-systems](https://jsantell.com/l-systems)
+
+### Perlin Noise
 - [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 - [Understanding Perlin Noise](https://flafla2.github.io/2014/08/09/perlinnoise.html)
 - [Ruído de Perlin](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
