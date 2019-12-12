@@ -187,6 +187,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - :star:[Bruno Simon](https://bruno-simon.com/)
 - [Bruno Simon — Portfolio (case study)](https://medium.com/@bruno_simon/bruno-simon-portfolio-case-study-960402cc259b)
 - [Rendering text in WebGL](https://css-tricks.com/techniques-for-rendering-text-with-webgl/)
+- [Raw WebGL: An overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.](https://alain.xyz/blog/raw-webgl)
 
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
