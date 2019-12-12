@@ -143,6 +143,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Random RGB values that average to N; or, Pointlessness and Probability](https://kevingal.com/blog/rgb-average.html)
 - [RGB/XYZ Conversion Matrix Accuracy](http://terathon.com/blog/rgb-xyz-conversion-matrix-accuracy/)
 
+
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
 - [Pathfinding Algorithms](https://medium.com/@chopra.chet/pathfinding-algorithms-6c0d4febe8fd)
