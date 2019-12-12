@@ -95,6 +95,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ### Voxel
 - [Layered voxel rendering](https://jobtalle.com/layered_voxel_rendering.html)
 - [Voxel to Mesh Conversion: Marching Cube Algorithm](https://medium.com/zeg-ai/voxel-to-mesh-conversion-marching-cube-algorithm-43dbb0801359)
+- [An Analysis of Minecraft-like Engines](https://0fps.net/2012/01/14/an-analysis-of-minecraft-like-engines/)
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
