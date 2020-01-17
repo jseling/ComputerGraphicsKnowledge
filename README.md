@@ -112,6 +112,10 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ## Procedural Generators
 - [L-systems](https://jsantell.com/l-systems)
 
+## Procedural Geometry
+- [Intro to Procedural Geometry, Part 1](https://lindenreid.wordpress.com/2018/01/20/intro-to-procedural-geometry-part-1/)
+
+
 ### Perlin Noise
 - [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 - [Understanding Perlin Noise](https://flafla2.github.io/2014/08/09/perlinnoise.html)
