@@ -147,7 +147,8 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Fast HSV to RGB Conversion](http://www.vagrearg.org/content/hsvrgb)
 - [Random RGB values that average to N; or, Pointlessness and Probability](https://kevingal.com/blog/rgb-average.html)
 - [RGB/XYZ Conversion Matrix Accuracy](http://terathon.com/blog/rgb-xyz-conversion-matrix-accuracy/)
-
+- [Digital Color Management Guide](https://hg2dc.com/)
+- [Protecting a Story’s Future with History and Science](https://netflixtechblog.com/protecting-a-storys-future-with-history-and-science-e21a9fb54988)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
