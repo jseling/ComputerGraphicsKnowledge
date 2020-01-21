@@ -65,6 +65,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Gamedev Tutorial: Trigonometry Basics – Sine & Cosine](http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/)
 - [Sin & Cos: The Programmer's Pals!](https://www.helixsoft.nl/articles/circle/sincos.htm)
 - [The Magnificent 2D Matrix](https://ncase.me/matrix/)
+- [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://www.allenchou.net/2020/01/dot-product-projection-reflection/)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
