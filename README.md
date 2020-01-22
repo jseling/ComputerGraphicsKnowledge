@@ -125,6 +125,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Using Perlin Noise to Generate 2D Terrain and Water](https://gpfault.net/posts/perlin-noise.txt.html)
 - [Let’s make some noise!](https://medium.com/carwow-product-engineering/lets-make-some-noise-53a35d56c41e)
 - [Cubic noise](https://jobtalle.com/cubic_noise.html)
+- [Perlin noise demo in javascript](https://github.com/BensDownloads/perlinJS)
 
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
