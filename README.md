@@ -182,7 +182,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
 - [DX11 Examples](https://github.com/AntonAngeloff/DX11_Examples)
 
-# WebGL
+# WebGL and Three.js
 - [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 - [MinMaxIA](http://www.minmaxia.com/minmaxia/)
@@ -200,6 +200,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Rendering text in WebGL](https://css-tricks.com/techniques-for-rendering-text-with-webgl/)
 - [Raw WebGL: An overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.](https://alain.xyz/blog/raw-webgl)
 - [Writing a ray tracer for the web](https://oktomus.com/posts/2020/ray-tracer-with-webgl-compute/)
+- [Three.js and Shadertoy](https://threejsfundamentals.org/threejs/lessons/threejs-shadertoy.html)
 
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
