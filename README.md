@@ -201,6 +201,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Raw WebGL: An overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.](https://alain.xyz/blog/raw-webgl)
 - [Writing a ray tracer for the web](https://oktomus.com/posts/2020/ray-tracer-with-webgl-compute/)
 - [Three.js and Shadertoy](https://threejsfundamentals.org/threejs/lessons/threejs-shadertoy.html)
+- [An Interactive WebGL Internal State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html)
 
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
