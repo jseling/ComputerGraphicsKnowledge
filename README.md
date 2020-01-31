@@ -66,6 +66,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Sin & Cos: The Programmer's Pals!](https://www.helixsoft.nl/articles/circle/sincos.htm)
 - [The Magnificent 2D Matrix](https://ncase.me/matrix/)
 - [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://www.allenchou.net/2020/01/dot-product-projection-reflection/)
+- [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
