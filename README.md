@@ -90,6 +90,9 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 - [Global Illumination and Path Tracing](https://www.scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing)
 
+### Shaders
+- [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
+
 ### Concepts and Techniques
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
 - [Rendering equation](https://en.wikipedia.org/wiki/Rendering_equation)
