@@ -162,6 +162,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Protecting a Story’s Future with History and Science](https://netflixtechblog.com/protecting-a-storys-future-with-history-and-science-e21a9fb54988)
 - [Read color hex codes](https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes)
 - [Color Spaces](https://ciechanow.ski/color-spaces/)
+- [HSLuv, a developer friendly perceptual color space](https://www.kuon.ch/post/2020-03-08-hsluv/)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
