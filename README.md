@@ -89,6 +89,12 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [An Introduction To Real-Time Subsurface Scattering](https://therealmjp.github.io/posts/sss-intro/)
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 - [Global Illumination and Path Tracing](https://www.scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing)
+- [Part 0: 3D Game Rendering 101](https://www.techspot.com/article/1851-3d-game-rendering-explained/?fbclid=IwAR1HDRTy4B3KC6OSuOdUaPrgs1YpPJjnzDctt3Q3R1OldQs3RwUeJjCfmho)
+- [Part 1: 3D Game Rendering: Vertex Processing](https://www.techspot.com/article/1857-how-to-3d-rendering-vertex-processing/?fbclid=IwAR2N1Z7yDjFn_qAjdoBtyhJIwZZ9xRT0c4O0s_bdWojx1FEPyyF5Cf6W_Dg)
+- [Part 2: 3D Game Rendering: Rasterization and Ray Tracing](https://www.techspot.com/article/1888-how-to-3d-rendering-rasterization-ray-tracing/?fbclid=IwAR1SIywmi2Y56jvIzCiTc61SFGBJ7P1CV_ZQNtn80NakgtaISB2fAFgJMSI)
+- [Part 3: 3D Game Rendering: Texturing](https://www.techspot.com/article/1916-how-to-3d-rendering-texturing/?fbclid=IwAR2CVxpjWUBRqgtyZdFOtmI9fY_oamUyvu73PH4ttE7HsWNfnPGsoCnF1Zc)
+- [Part 4: 3D Game Rendering: Lighting and Shadows](https://www.techspot.com/article/1998-how-to-3d-rendering-lighting-shadows/?fbclid=IwAR1ZtV_OGhG_SppDalNhhbtFdxUqzjUpX5Mix_wJbNaT_dSl_WGrswHkxAI)
+
 
 ### Shaders
 - [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
