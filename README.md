@@ -172,6 +172,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Read color hex codes](https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes)
 - [Color Spaces](https://ciechanow.ski/color-spaces/)
 - [HSLuv, a developer friendly perceptual color space](https://www.kuon.ch/post/2020-03-08-hsluv/)
+- [Color Topics for Programmers](https://peteroupc.github.io/colorgen.html)
 
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
