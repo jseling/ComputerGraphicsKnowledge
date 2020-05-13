@@ -106,7 +106,11 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
 - [Rendering equation](https://en.wikipedia.org/wiki/Rendering_equation)
 - [Algorithm for Drawing Trees](https://rachel53461.wordpress.com/2014/04/20/algorithm-for-drawing-trees/)
+
+#### Geometry Images
+- [Twite UE5](https://twitter.com/BrianKaris/status/1260590413003362305)
 - [Geometry Images](http://hhoppe.com/gim.pdf)
+- [Geometry images](http://hhoppe.com/proj/gim/)
 - [Virtual Geometry Images](http://graphicrants.blogspot.com/2009/01/virtual-geometry-images.html)
 - [More Geometry](http://graphicrants.blogspot.com/2009/01/more-geometry.html)
 
