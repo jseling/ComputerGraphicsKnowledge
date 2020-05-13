@@ -106,6 +106,9 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
 - [Rendering equation](https://en.wikipedia.org/wiki/Rendering_equation)
 - [Algorithm for Drawing Trees](https://rachel53461.wordpress.com/2014/04/20/algorithm-for-drawing-trees/)
+- [Geometry Images](http://hhoppe.com/gim.pdf)
+- [Virtual Geometry Images](http://graphicrants.blogspot.com/2009/01/virtual-geometry-images.html)
+- [More Geometry](http://graphicrants.blogspot.com/2009/01/more-geometry.html)
 
 ### Voxel
 - [Layered voxel rendering](https://jobtalle.com/layered_voxel_rendering.html)
