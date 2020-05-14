@@ -34,6 +34,7 @@
 - [RAY TRACING A TINY PROCEDURAL PLANET](https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 - [iquilezles ShaderToy](https://www.shadertoy.com/user/iq)
 - [Writing a texture painter: Part 1](https://medium.com/@strattonbrazil/writing-a-texture-painter-part-1-f0d732d287d1)
+- [Computação Gráfica - UFPB](http://mat.ufpb.br/~lenimar/cgraf/index.html)
 
 ## General Graphics API
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
