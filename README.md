@@ -78,6 +78,8 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ## Rendering
 - :star:[Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
 - [DECYPHERING THE BUSINESS CARD RAYTRACER](http://fabiensanglard.net/rayTracing_back_of_business_card/index.php)
+- [REVISITING THE BUSINESS CARD RAYTRACER](https://fabiensanglard.net/revisiting_the_businesscard_raytracer/index.html)
+- [REVISITING THE POSTCARD PATHTRACER WITH CUDA AND OPTIX](https://fabiensanglard.net/revisiting_the_pathtracer/index.html)
 - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 - [C++ vs OCaml: Ray tracer comparison](http://www.ffconsultancy.com/languages/ray_tracer/comparison.html)
 - :star:[smallpt: Global Illumination in 99 lines of C++](http://www.kevinbeason.com/smallpt/)
