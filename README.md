@@ -217,6 +217,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 
 # Javascript
 - [Linear Algebra with JavaScript](https://medium.com/@geekrodion/linear-algebra-with-javascript-46c289178c0)
+- [Benchmark for linear algebra javascript libraries](https://mlweb.loria.fr/benchmark/index.html)
 
 ## WebGL and Three.js
 - [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
