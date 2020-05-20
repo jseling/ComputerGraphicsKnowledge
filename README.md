@@ -241,5 +241,8 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Three.js and Shadertoy](https://threejsfundamentals.org/threejs/lessons/threejs-shadertoy.html)
 - [An Interactive WebGL Internal State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html)
 
+## OpenCL
+- [A Gentle Introduction to OpenCL](https://www.drdobbs.com/parallel/a-gentle-introduction-to-opencl/231002854)
+
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
