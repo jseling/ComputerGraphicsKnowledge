@@ -215,7 +215,10 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
 - [DX11 Examples](https://github.com/AntonAngeloff/DX11_Examples)
 
-# WebGL and Three.js
+# Javascript
+- [Linear Algebra with JavaScript](https://medium.com/@geekrodion/linear-algebra-with-javascript-46c289178c0)
+
+## WebGL and Three.js
 - [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
 - [MinMaxIA](http://www.minmaxia.com/minmaxia/)
