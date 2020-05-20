@@ -71,6 +71,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [The Magnificent 2D Matrix](https://ncase.me/matrix/)
 - [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://www.allenchou.net/2020/01/dot-product-projection-reflection/)
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
+- [Ray-Sphere Intersection with Simple Math](http://kylehalladay.com/blog/tutorial/math/2013/12/24/Ray-Sphere-Intersection.html)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
