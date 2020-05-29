@@ -1,5 +1,6 @@
 # ComputerGraphicsKnowledge
 
+- :star:[1000 Forms Of Bunnies](http://viclw17.github.io/)
 - :star::book:[Varios livros famosos grátis](http://www.realtimerendering.com/#books-small-table)
 - :star:[Gabriel Gambetta: Computer Graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 - :star:[How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
@@ -90,6 +91,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - :book:[Ray Tracing: The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
 - :book:[Ray Tracing: The Rest Of Your Life](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html)
 - :book:[Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
+- :star:[Raytracing - Dielectric Materials](http://viclw17.github.io/2018/08/05/raytracing-dielectric-materials/)
 - [A trip through the Graphics Pipeline 2011: Index](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
 - [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/)
 - [Modern text rendering with Linux: Antialiasing](https://mrandri19.github.io/2019/08/08/modern-text-rendering-linux-ep2.html)
@@ -156,6 +158,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Let’s make some noise!](https://medium.com/carwow-product-engineering/lets-make-some-noise-53a35d56c41e)
 - [Cubic noise](https://jobtalle.com/cubic_noise.html)
 - [Perlin noise demo in javascript](https://github.com/BensDownloads/perlinJS)
+- :star:[Perlin Noise Implementation](http://viclw17.github.io/2018/12/28/Perlin-Noise-Implementation/)
 
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
