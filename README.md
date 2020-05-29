@@ -159,6 +159,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [Cubic noise](https://jobtalle.com/cubic_noise.html)
 - [Perlin noise demo in javascript](https://github.com/BensDownloads/perlinJS)
 - :star:[Perlin Noise Implementation](http://viclw17.github.io/2018/12/28/Perlin-Noise-Implementation/)
+- :star:[Building Up Perlin Noise](http://eastfarthing.com/blog/2015-04-21-noise/)
 
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
