@@ -134,6 +134,8 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
+- [Flate/deflate compression](https://www.prepressure.com/library/compression-algorithm/flate-deflate)
+- [How to decompress/deflate PDF Stream](https://stackoverflow.com/questions/42355485/how-to-decompress-deflate-pdf-stream)
 
 
 ## Hand Made Rendering
