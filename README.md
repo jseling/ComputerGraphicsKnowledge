@@ -91,6 +91,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - :book:[Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - :book:[Ray Tracing: The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
 - :book:[Ray Tracing: The Rest Of Your Life](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html)
+- :star:[Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 - :book:[Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
 - :star:[Raytracing - Dielectric Materials](http://viclw17.github.io/2018/08/05/raytracing-dielectric-materials/)
 - [A trip through the Graphics Pipeline 2011: Index](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/)
