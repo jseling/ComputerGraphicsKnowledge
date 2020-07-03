@@ -194,6 +194,9 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [HSLuv, a developer friendly perceptual color space](https://www.kuon.ch/post/2020-03-08-hsluv/)
 - [Color Topics for Programmers](https://peteroupc.github.io/colorgen.html)
 
+## Light and Shadow
+- [Light and Shadows](https://ciechanow.ski/lights-and-shadows/)
+
 # AI
 - [Mathematics for Artificial Intelligence – Linear Algebra](https://rubikscode.net/2019/04/29/mathematics-for-artificial-intelligence-linear-algebra/)
 - [Pathfinding Algorithms](https://medium.com/@chopra.chet/pathfinding-algorithms-6c0d4febe8fd)
