@@ -153,11 +153,12 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 ## Procedural Geometry
 - [Intro to Procedural Geometry, Part 1](https://lindenreid.wordpress.com/2018/01/20/intro-to-procedural-geometry-part-1/)
 
-### ROAM
+### Terrain Rendering
 - [Real-Time Optimally Adapting Meshes: Terrain Visualization in Games](https://www.hindawi.com/journals/ijcgt/2008/753584/)
 - [ROAM Algorithm Version 2.0](http://www.cognigraph.com/ROAM_homepage/ROAM2/)
 - [Real-Time Dynamic Level of Detail Terrain Rendering with ROAM](https://www.gamasutra.com/view/feature/131596/realtime_dynamic_level_of_detail_.php)
 - :star:[Terrain Rendering in Games: Basics](https://kosmonautblog.wordpress.com/2017/06/04/terrain-rendering-overview-and-tricks/)
+- :star:[Virtual Terrain Project](http://vterrain.org/)
 
 ### Perlin Noise
 - [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
