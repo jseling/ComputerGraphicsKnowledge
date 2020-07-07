@@ -48,7 +48,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - :star:[Learn OpenGL](https://learnopengl.com/Introduction)
 - [Modern OpenGL](https://glumpy.github.io/modern-gl.html)
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
-- [opengl-tutorial](http://www.opengl-tutorial.org/)
+- :star:[opengl-tutorial](http://www.opengl-tutorial.org/)
 - [OpenGL Modern Tutorials](http://ogldev.atspace.co.uk/index.html)
 - [Learning Modern 3D Graphics Programming](https://alfonse.bitbucket.io/oldtut/index.html)
 - [OpenGL Theory](https://adrian.geek.nz/graphics_docs/opengl.html)
