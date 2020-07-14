@@ -234,6 +234,12 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
 - [DX11 Examples](https://github.com/AntonAngeloff/DX11_Examples)
+- https://github.com/neslib/DelphiLearnOpenGL
+- https://edn.embarcadero.com/article/26401
+- [Delphi / Pascal OpenGL header translation: Sasha Willems DGL](https://github.com/SaschaWillems/dglOpenGL)
+- [DGL Wiki](https://wiki.delphigl.com/index.php/dglOpenGL.pas/en)
+- [DGL Tutorials](https://wiki.delphigl.com/index.php/Tutorial)
+- [Old Embarcadero Article](https://edn.embarcadero.com/article/26401)
 
 # Javascript
 - [Linear Algebra with JavaScript](https://medium.com/@geekrodion/linear-algebra-with-javascript-46c289178c0)
