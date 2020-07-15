@@ -184,6 +184,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 
 ## Image
 - [Unraveling the JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 - [Images done right:
 Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques)
 - [Histogram-preserving Blending for Randomized Texture Tiling](https://benedikt-bitterli.me/histogram-tiling/)
