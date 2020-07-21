@@ -55,6 +55,9 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [OpenGL Theory](https://adrian.geek.nz/graphics_docs/opengl.html)
 - [DEPRECATION OF FIXED PIPELINE FEATURES](https://stackoverflow.com/questions/4113989/why-were-display-lists-deprecated-in-opengl-3-1)
 
+## Vulcan
+- [Vulkan Resources](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md)
+
 ## DirectX
 - [Learning DirectX 12 – Lesson 1 – Initialize DirectX 12](https://www.3dgep.com/learning-directx12-1/)
 - [DirectX 12 Programming #1: A quickstart!](https://digitalerr0r.net/2015/08/19/quickstart-directx-12-programming/)
