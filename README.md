@@ -269,6 +269,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Writing a ray tracer for the web](https://oktomus.com/posts/2020/ray-tracer-with-webgl-compute/)
 - [Three.js and Shadertoy](https://threejsfundamentals.org/threejs/lessons/threejs-shadertoy.html)
 - [An Interactive WebGL Internal State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html)
+- [Barebones WebGL in 75 lines of code](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html)
 
 ## OpenCL
 - [A Gentle Introduction to OpenCL](https://www.drdobbs.com/parallel/a-gentle-introduction-to-opencl/231002854)
