@@ -82,6 +82,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
+- [Simulating Object Collisions With Canvas](https://joshbradley.me/object-collisions-with-canvas/)
 
 ## Rendering
 - :star:[Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
