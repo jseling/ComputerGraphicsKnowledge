@@ -58,6 +58,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 
 ## Vulcan
 - [Vulkan Resources](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md)
+- [Fundamentals of the Vulkan Graphics API: Why Rendering a Triangle is Complicated](https://liamhinzman.com/blog/vulkan-fundamentals)
 
 ## DirectX
 - [Learning DirectX 12 – Lesson 1 – Initialize DirectX 12](https://www.3dgep.com/learning-directx12-1/)
