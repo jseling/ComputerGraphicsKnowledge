@@ -44,7 +44,6 @@
 
 ## OpenGL
 Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview) (shaders) instead of only the old [fixed pipeline](https://www.khronos.org/opengl/wiki/Fixed_Function_Pipeline) in old tutorials like [this](http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html).
-Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
 - :star:[Getting Started](https://www.khronos.org/opengl/wiki/Getting_Started)
 - [The Official Guide to Learning OpenGL, Version 1.1 - OpenGL Red Book](https://www.glprogramming.com/red/)
 - :star:[Learn OpenGL](https://learnopengl.com/Introduction)
