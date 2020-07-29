@@ -3,7 +3,7 @@
 - :star:[Drinking from the Firehose: Learning Computer Graphics Techniques and Programming](https://miketuritzin.com/post/how-to-learn-computer-graphics-techniques-and-programming/)
 - :star:[1000 Forms Of Bunnies](http://viclw17.github.io/)
 - [Demofox Blog - Graphics and Math](https://blog.demofox.org/#Graphics)
-- :star::book:[Varios livros famosos grátis](http://www.realtimerendering.com/#books-small-table)
+- :star::book:[Free Books: Real-Time Rendering Resources](http://www.realtimerendering.com/#books-small-table)
 - :star:[Gabriel Gambetta: Computer Graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 - :star:[How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
 - :star:[Learn Computer Graphics From Scratch!](http://www.scratchapixel.com/index.php?redirect)
@@ -43,6 +43,7 @@
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 
 ## OpenGL
+Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview) (shaders) instead of only the old [fixed pipeline](https://www.khronos.org/opengl/wiki/Fixed_Function_Pipeline) in old tutorials like [this](http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html).
 Aprender a pipeline programável usando shaders e não só a fixa usada nos tutoriais.
 - :star:[Getting Started](https://www.khronos.org/opengl/wiki/Getting_Started)
 - [The Official Guide to Learning OpenGL, Version 1.1 - OpenGL Red Book](https://www.glprogramming.com/red/)
@@ -53,6 +54,7 @@ Aprender a pipeline programável usando shaders e não só a fixa usada nos tuto
 - [OpenGL Modern Tutorials](http://ogldev.atspace.co.uk/index.html)
 - [Learning Modern 3D Graphics Programming](https://alfonse.bitbucket.io/oldtut/index.html)
 - [OpenGL Theory](https://adrian.geek.nz/graphics_docs/opengl.html)
+- [An intro to modern OpenGL. Chapter 1: The Graphics Pipeline](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html)
 - [DEPRECATION OF FIXED PIPELINE FEATURES](https://stackoverflow.com/questions/4113989/why-were-display-lists-deprecated-in-opengl-3-1)
 
 ## Vulcan
