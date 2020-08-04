@@ -1,4 +1,4 @@
-# ComputerGraphicsKnowledge
+# Computer Graphics and Game Development Knowledge
 
 - :star:[Drinking from the Firehose: Learning Computer Graphics Techniques and Programming](https://miketuritzin.com/post/how-to-learn-computer-graphics-techniques-and-programming/)
 - :star:[1000 Forms Of Bunnies](http://viclw17.github.io/)
