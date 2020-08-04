@@ -81,6 +81,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 - [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls](https://www.allenchou.net/2020/01/dot-product-projection-reflection/)
 - [Let's remove Quaternions from every 3D Engine](https://marctenbosch.com/quaternions/)
 - [Ray-Sphere Intersection with Simple Math](http://kylehalladay.com/blog/tutorial/math/2013/12/24/Ray-Sphere-Intersection.html)
+- [Unlearn rotation matrices as rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
