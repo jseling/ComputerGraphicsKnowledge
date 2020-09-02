@@ -126,6 +126,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
 - [Rendering equation](https://en.wikipedia.org/wiki/Rendering_equation)
 - [Algorithm for Drawing Trees](https://rachel53461.wordpress.com/2014/04/20/algorithm-for-drawing-trees/)
+- :star:[A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 
 #### Geometry Images
 - [Twite UE5](https://twitter.com/BrianKaris/status/1260590413003362305)
