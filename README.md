@@ -84,6 +84,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 - [Ray-Sphere Intersection with Simple Math](http://kylehalladay.com/blog/tutorial/math/2013/12/24/Ray-Sphere-Intersection.html)
 - [Unlearn rotation matrices as rotations](https://kodkodgames.gitlab.io/rotation_matrices/)
 - :clapper:[Möller Trumbore Ray Triangle Intersection Explained](https://en.reddit.com/r/GraphicsProgramming/comments/ifbjzl/i_created_a_video_explaining_the_m%C3%B6ller_trumbore/)
+- :book:[Linear Algebra by Jim Hefferon](https://hefferon.net/linearalgebra/)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
