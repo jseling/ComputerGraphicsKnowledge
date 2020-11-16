@@ -173,6 +173,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 - [Real-Time Dynamic Level of Detail Terrain Rendering with ROAM](https://www.gamasutra.com/view/feature/131596/realtime_dynamic_level_of_detail_.php)
 - :star:[Terrain Rendering in Games: Basics](https://kosmonautblog.wordpress.com/2017/06/04/terrain-rendering-overview-and-tricks/)
 - :star:[Virtual Terrain Project](http://vterrain.org/)
+- [Simulating Erosion: An experiment](https://medium.com/@alberttheblacksheep/simulation-erosion-a-experiment-3cfd5c592b34)
 
 ### Perlin Noise
 - [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
