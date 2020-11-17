@@ -160,6 +160,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 - [3d terrain generation REDDIT TALK](https://en.reddit.com/r/proceduralgeneration/comments/2x529j/lets_talk_about_terrain_generation_in_3d_warning/)
 - [MARTINI: Real-Time RTIN Terrain Mesh](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh)
 - [Fractional Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
+- [1D Procedural Terrain Generation](https://arpitbhayani.me/blogs/1d-terrain)
 
 ## Procedural Generators
 - [L-systems](https://jsantell.com/l-systems)
