@@ -118,7 +118,8 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 - [Part 2: 3D Game Rendering: Rasterization and Ray Tracing](https://www.techspot.com/article/1888-how-to-3d-rendering-rasterization-ray-tracing/?fbclid=IwAR1SIywmi2Y56jvIzCiTc61SFGBJ7P1CV_ZQNtn80NakgtaISB2fAFgJMSI)
 - [Part 3: 3D Game Rendering: Texturing](https://www.techspot.com/article/1916-how-to-3d-rendering-texturing/?fbclid=IwAR2CVxpjWUBRqgtyZdFOtmI9fY_oamUyvu73PH4ttE7HsWNfnPGsoCnF1Zc)
 - [Part 4: 3D Game Rendering: Lighting and Shadows](https://www.techspot.com/article/1998-how-to-3d-rendering-lighting-shadows/?fbclid=IwAR1ZtV_OGhG_SppDalNhhbtFdxUqzjUpX5Mix_wJbNaT_dSl_WGrswHkxAI)
-
+- [Learning About Ray Tracing](https://siliconsprawl.com/2020/08/02/ray-tracers.html)
+- [Daily Pathtracer Part 0: Intro](https://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/)
 
 ### Shaders
 - [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
