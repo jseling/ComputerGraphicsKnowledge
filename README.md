@@ -226,6 +226,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [HSLuv, a developer friendly perceptual color space](https://www.kuon.ch/post/2020-03-08-hsluv/)
 - [Color Topics for Programmers](https://peteroupc.github.io/colorgen.html)
 - [The Pulfrich effect - Which colour scheme is better?](https://stitcher.io/blog/why-light-themes-are-better-according-to-science)
+- [Ditherpunk](https://surma.dev/things/ditherpunk/)
 
 ## Light and Shadow
 - [Light and Shadows](https://ciechanow.ski/lights-and-shadows/)
