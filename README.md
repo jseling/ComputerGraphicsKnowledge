@@ -43,6 +43,7 @@
 - [Writing a texture painter: Part 1](https://medium.com/@strattonbrazil/writing-a-texture-painter-part-1-f0d732d287d1)
 - [Computação Gráfica - UFPB](http://mat.ufpb.br/~lenimar/cgraf/index.html)
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
+- :star::book:[The Nature of Code: Simulating natural behaviours and phenomena](https://natureofcode.com/book/)
 
 ## General Graphics API
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
