@@ -8,7 +8,7 @@
 - :star:[1000 Forms Of Bunnies](http://viclw17.github.io/)
 - [Demofox Blog - Graphics and Math](https://blog.demofox.org/#Graphics)
 - :star::book:[Free Books: Real-Time Rendering Resources](http://www.realtimerendering.com/#books-small-table)
-- :star:[Gabriel Gambetta: Computer Graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
+- :star:[Gabriel Gambetta: Computer Graphics from scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 - :star:[How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html)
 - :star:[Learn Computer Graphics From Scratch!](http://www.scratchapixel.com/index.php?redirect)
 - :star:[Michael Abrash's "Graphics Programming Black Book"](http://www.jagregory.com/abrash-black-book/)
@@ -256,6 +256,12 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Reddit: How Does Multiplayer / Networking Work?](https://en.reddit.com/r/gamedev/comments/d7u27u/how_does_multiplayer_networking_work/)
 - [Homebrew Voxel Engine](http://weigert.vsos.ethz.ch/2019/10/27/homebrew-voxel-engine/)
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
+
+## Network
+- [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+
+## AI
+- [Pathfinding Demystified (Part I): Generic Search Algorithm](https://www.gabrielgambetta.com/generic-search.html)
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
