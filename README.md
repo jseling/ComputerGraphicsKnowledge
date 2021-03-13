@@ -75,6 +75,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 - [DX12 Useful links](https://devblogs.microsoft.com/directx/useful-links/)
 
 ## Math
+- :book:[3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
 - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
 - [Understanding Quaternions](https://www.3dgep.com/understanding-quaternions/)
