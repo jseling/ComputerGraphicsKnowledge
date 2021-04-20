@@ -2,6 +2,7 @@
 
 ## Sites
 - [RedBlobGames](https://www.redblobgames.com/)
+- :star:[The Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
 
 ## Articles
 - :star:[Drinking from the Firehose: Learning Computer Graphics Techniques and Programming](https://miketuritzin.com/post/how-to-learn-computer-graphics-techniques-and-programming/)
@@ -129,6 +130,7 @@ Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Render
 
 ### Shaders
 - [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
+- [HOW TO READ SHADER ASSEMBLY](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 
 ### Concepts and Techniques
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
