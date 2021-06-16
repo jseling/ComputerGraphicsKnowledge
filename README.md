@@ -3,6 +3,7 @@
 ## Sites
 - [RedBlobGames](https://www.redblobgames.com/)
 - :star:[The Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
+- :star:[Geometric Tools](https://www.geometrictools.com/Documentation/Documentation.html)
 
 ## Articles
 - :star:[Drinking from the Firehose: Learning Computer Graphics Techniques and Programming](https://miketuritzin.com/post/how-to-learn-computer-graphics-techniques-and-programming/)
