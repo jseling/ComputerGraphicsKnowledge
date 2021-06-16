@@ -263,6 +263,9 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Homebrew Voxel Engine](http://weigert.vsos.ethz.ch/2019/10/27/homebrew-voxel-engine/)
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
 
+# CAD
+- [A New Era for Mechanical CAD: Time to move forward from decades-old design](https://queue.acm.org/detail.cfm?id=3469844)
+
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 
