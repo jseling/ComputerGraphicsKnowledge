@@ -64,6 +64,8 @@
 - [OpenGL Theory](https://adrian.geek.nz/graphics_docs/opengl.html)
 - [An intro to modern OpenGL. Chapter 1: The Graphics Pipeline](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html)
 - [DEPRECATION OF FIXED PIPELINE FEATURES](https://stackoverflow.com/questions/4113989/why-were-display-lists-deprecated-in-opengl-3-1)
+- :star:[OpenGL tutorials and notes](http://www.songho.ca/opengl/index.html)
+- :star:[VBO X Models: Vertex Specification Best Practices](https://www.khronos.org/opengl/wiki/Vertex_Specification_Best_Practices)
 
 ## Vulcan
 - [Vulkan Resources](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md)
