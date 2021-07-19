@@ -202,6 +202,7 @@
 - :star:[Perlin Noise Implementation](http://viclw17.github.io/2018/12/28/Perlin-Noise-Implementation/)
 - :star:[Building Up Perlin Noise](http://eastfarthing.com/blog/2015-04-21-noise/)
 - [Noise in Creative Coding](https://varun.ca/noise/)
+- [PERLIN VS. SIMPLEX](https://www.bit-101.com/blog/2021/07/perlin-vs-simplex/)
 
 ## Rotation
 - [How to Fix Gimbal Lock in N-Dimensions](https://medium.com/@omar4ur/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e)
