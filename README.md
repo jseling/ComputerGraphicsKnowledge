@@ -68,6 +68,10 @@
 - :star:[OpenGL tutorials and notes](http://www.songho.ca/opengl/index.html)
 - :star:[VBO X Models: Vertex Specification Best Practices](https://www.khronos.org/opengl/wiki/Vertex_Specification_Best_Practices)
 
+### OpenGL Opinions
+- [Object-Oriented OpenGL](https://gamedev.stackexchange.com/questions/25733/object-oriented-opengl)
+- [OpenGL and OOP](https://www.reddit.com/r/opengl/comments/2reezw/opengl_and_oop/)
+
 ## Vulcan
 - [Vulkan Resources](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md)
 - [Fundamentals of the Vulkan Graphics API: Why Rendering a Triangle is Complicated](https://liamhinzman.com/blog/vulkan-fundamentals)
