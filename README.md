@@ -71,6 +71,7 @@
 ### OpenGL Opinions
 - [Object-Oriented OpenGL](https://gamedev.stackexchange.com/questions/25733/object-oriented-opengl)
 - [OpenGL and OOP](https://www.reddit.com/r/opengl/comments/2reezw/opengl_and_oop/)
+- [OpenGL Is Broken](http://www.joshbarczak.com/blog/?p=154)
 
 ## Vulcan
 - [Vulkan Resources](https://github.com/KhronosGroup/Khronosdotorg/blob/master/api/vulkan/resources.md)
