@@ -68,9 +68,12 @@
 - :star:[OpenGL tutorials and notes](http://www.songho.ca/opengl/index.html)
 - :star:[VBO X Models: Vertex Specification Best Practices](https://www.khronos.org/opengl/wiki/Vertex_Specification_Best_Practices)
 
-### OpenGL Opinions
+### OpenGL OOP Abstractions
 - [Object-Oriented OpenGL](https://gamedev.stackexchange.com/questions/25733/object-oriented-opengl)
 - [OpenGL and OOP](https://www.reddit.com/r/opengl/comments/2reezw/opengl_and_oop/)
+- [OpenGL Renderer Design](https://nlguillemot.wordpress.com/2016/11/18/opengl-renderer-design/)
+
+### OpenGL Opinions
 - [OpenGL Is Broken](http://www.joshbarczak.com/blog/?p=154)
 
 ## Vulcan
