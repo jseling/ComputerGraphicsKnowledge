@@ -61,7 +61,7 @@
 - [Anton's OpenGL 4 Tutorials](http://antongerdelan.net/opengl/)
 - :star:[opengl-tutorial](http://www.opengl-tutorial.org/)
 - [OpenGL Modern Tutorials](http://ogldev.atspace.co.uk/index.html)
-- [Learning Modern 3D Graphics Programming](https://alfonse.bitbucket.io/oldtut/index.html)
+- :star:[Learning Modern 3D Graphics Programming](https://alfonse.bitbucket.io/oldtut/index.html)
 - [OpenGL Theory](https://adrian.geek.nz/graphics_docs/opengl.html)
 - [An intro to modern OpenGL. Chapter 1: The Graphics Pipeline](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html)
 - [DEPRECATION OF FIXED PIPELINE FEATURES](https://stackoverflow.com/questions/4113989/why-were-display-lists-deprecated-in-opengl-3-1)
