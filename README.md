@@ -91,6 +91,7 @@
 ## 3D Assets
 - [Kay Lousberg](https://kaylousberg.com/game-assets)
 - [Quaternius](https://quaternius.com/index.html)
+- [Itch.io](https://itch.io/game-assets/free/tag-3d)
 
 ## Math
 - :book:[3D Math Primer for Graphics and Game Development](https://gamemath.com/)
