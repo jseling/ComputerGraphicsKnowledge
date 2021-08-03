@@ -88,6 +88,10 @@
 - [Getting started with D3D12](https://anteru.net/blog/2015/getting-started-with-d3d12/)
 - [DX12 Useful links](https://devblogs.microsoft.com/directx/useful-links/)
 
+## 3D Assets
+- [Kay Lousberg](https://kaylousberg.com/game-assets)
+- [Quaternius](https://quaternius.com/index.html)
+
 ## Math
 - :book:[3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
