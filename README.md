@@ -67,6 +67,7 @@
 - [DEPRECATION OF FIXED PIPELINE FEATURES](https://stackoverflow.com/questions/4113989/why-were-display-lists-deprecated-in-opengl-3-1)
 - :star:[OpenGL tutorials and notes](http://www.songho.ca/opengl/index.html)
 - :star:[VBO X Models: Vertex Specification Best Practices](https://www.khronos.org/opengl/wiki/Vertex_Specification_Best_Practices)
+- [What are some good practices to manage GPU memory usage?](https://www.reddit.com/r/opengl/comments/oxl2fi/what_are_some_good_practices_to_manage_gpu_memory/?%24deep_link=true&correlation_id=b0a508a1-57b8-48d1-8471-e9915aa327ee&post_fullname=t3_oxl2fi&post_index=4&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_body&%243p=e_as&_branch_match_id=929318832688810568)
 
 ### OpenGL OOP Abstractions
 - [Object-Oriented OpenGL](https://gamedev.stackexchange.com/questions/25733/object-oriented-opengl)
