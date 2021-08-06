@@ -194,6 +194,7 @@
 
 ## Procedural Generators
 - [L-systems](https://jsantell.com/l-systems)
+- [Simulating worlds on the GPU](https://davidar.io/post/sim-glsl)
 
 ## Procedural Geometry
 - [Intro to Procedural Geometry, Part 1](https://lindenreid.wordpress.com/2018/01/20/intro-to-procedural-geometry-part-1/)
