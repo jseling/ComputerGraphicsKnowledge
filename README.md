@@ -176,6 +176,7 @@
 - [Meshing in Voxel Engines – Part 3](https://blackflux.wordpress.com/2014/03/02/meshing-in-voxel-engines-part-3/)
 - :star:[Smooth Voxel Mapping: a Technical Deep Dive on Real-time Surface Nets and Texturing](https://medium.com/@bonsairobo/smooth-voxel-mapping-a-technical-deep-dive-on-real-time-surface-nets-and-texturing-ef06d0f8ca14)
 - [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
+- :star:[SeaOfMemes Blog](https://web.archive.org/web/20150220095100/http://sea-of-memes.com/summary/blog_parts.html)
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
