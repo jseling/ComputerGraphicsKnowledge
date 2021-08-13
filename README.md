@@ -95,6 +95,7 @@
 - [Itch.io](https://itch.io/game-assets/free/tag-3d)
 
 ## Math
+- :star:[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
 - :book:[3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
 - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
