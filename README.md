@@ -256,6 +256,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Color Topics for Programmers](https://peteroupc.github.io/colorgen.html)
 - [The Pulfrich effect - Which colour scheme is better?](https://stitcher.io/blog/why-light-themes-are-better-according-to-science)
 - [Ditherpunk](https://surma.dev/things/ditherpunk/)
+- [Mapping concepts to colors (terribly) with the Oklab perceptual colospace](https://nessuent.xyz/posts/2021-08-17_concept_to_color.html)
 
 ## Light and Shadow
 - [Light and Shadows](https://ciechanow.ski/lights-and-shadows/)
