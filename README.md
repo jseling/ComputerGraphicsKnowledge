@@ -178,6 +178,12 @@
 - :star:[Smooth Voxel Mapping: a Technical Deep Dive on Real-time Surface Nets and Texturing](https://medium.com/@bonsairobo/smooth-voxel-mapping-a-technical-deep-dive-on-real-time-surface-nets-and-texturing-ef06d0f8ca14)
 - [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
 - :star:[SeaOfMemes Blog](https://web.archive.org/web/20150220095100/http://sea-of-memes.com/summary/blog_parts.html)
+- [Cube Voxel Rendering](https://medium.com/@calebleak/cube-voxel-rendering-bc5d87c24c3)
+- [SVO: what are sparse voxel octrees?](https://stackoverflow.com/questions/985893/what-are-sparse-voxel-octrees)
+
+### Raymarching and radiosity 
+- [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
+- [Real-Time Global Illumination Using OpenGL And Voxel Cone Tracing](https://arxiv.org/pdf/2104.00618.pdf)
 
 ## PDF
 - [Understanding the PDF File Format](https://blog.idrsolutions.com/page/2/?s=%22Make+your+own+PDF+file%22)
