@@ -113,6 +113,7 @@
 - :clapper:[Möller Trumbore Ray Triangle Intersection Explained](https://en.reddit.com/r/GraphicsProgramming/comments/ifbjzl/i_created_a_video_explaining_the_m%C3%B6ller_trumbore/)
 - :book:[Linear Algebra by Jim Hefferon](https://hefferon.net/linearalgebra/)
 - [The most useful math formulas](http://blog.pkh.me/p/29-the-most-useful-math-formulas.html)
+- :book:[Mathematical recipes (early draft)](https://math.recipes/Math-recipes.pdf)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
