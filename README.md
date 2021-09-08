@@ -317,6 +317,9 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Linear Algebra with JavaScript](https://medium.com/@geekrodion/linear-algebra-with-javascript-46c289178c0)
 - [Benchmark for linear algebra javascript libraries](https://mlweb.loria.fr/benchmark/index.html)
 
+# C# .Net
+- [Vim.Math3D is a portable, safe, and efficient 3D math library from VIM written in C# targeting .NET Standard 2.0 without any dependencies.](https://github.com/vimaec/math3d)
+
 ## WebGL and Three.js
 - [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 - [Mozilla WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
