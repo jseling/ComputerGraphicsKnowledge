@@ -181,6 +181,8 @@
 - :star:[SeaOfMemes Blog](https://web.archive.org/web/20150220095100/http://sea-of-memes.com/summary/blog_parts.html)
 - [Cube Voxel Rendering](https://medium.com/@calebleak/cube-voxel-rendering-bc5d87c24c3)
 - [SVO: what are sparse voxel octrees?](https://stackoverflow.com/questions/985893/what-are-sparse-voxel-octrees)
+- [Marching Cubes Tutorial](https://www.boristhebrave.com/2018/04/15/marching-cubes-tutorial/)
+
 
 ### Raymarching and radiosity 
 - [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
@@ -200,6 +202,7 @@
 - [MARTINI: Real-Time RTIN Terrain Mesh](https://observablehq.com/@mourner/martin-real-time-rtin-terrain-mesh)
 - [Fractional Brownian Motion](http://iquilezles.org/www/articles/fbm/fbm.htm)
 - [1D Procedural Terrain Generation](https://arpitbhayani.me/blogs/1d-terrain)
+- [Procedural World](http://procworld.blogspot.com/)
 
 ## Procedural Generators
 - [L-systems](https://jsantell.com/l-systems)
