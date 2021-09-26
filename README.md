@@ -182,7 +182,7 @@
 - [Cube Voxel Rendering](https://medium.com/@calebleak/cube-voxel-rendering-bc5d87c24c3)
 - [SVO: what are sparse voxel octrees?](https://stackoverflow.com/questions/985893/what-are-sparse-voxel-octrees)
 - [Marching Cubes Tutorial](https://www.boristhebrave.com/2018/04/15/marching-cubes-tutorial/)
-
+- :star:[The Perfect Voxel Engine](https://voxely.net/blog/the-perfect-voxel-engine/)
 
 ### Raymarching and radiosity 
 - [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
