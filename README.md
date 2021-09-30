@@ -96,6 +96,7 @@
 
 ## Math
 - :star:[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
+- [The-Art-of-Linear-Algebra: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 - :book:[3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 - :star:[Interpolating in a Triangle](https://codeplea.com/triangular-interpolation)
 - [Triangle rasterization in practice](https://fgiesen.wordpress.com/2013/02/08/triangle-rasterization-in-practice/)
