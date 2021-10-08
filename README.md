@@ -52,7 +52,7 @@
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 
 ## OpenGL
-- [A Guide to Modern OpenGL Functions: The NEW modern, about DSA, not the old modern about VAO](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
+- ⭐:[A Guide to Modern OpenGL Functions: The NEW modern, about DSA, not the old modern about VAO](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
 - https://www.tomdalling.com/blog/modern-opengl/01-getting-started-in-xcode-and-visual-cpp/#what_are_vbo_and_vao
 - Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview) (shaders) instead of only the old [fixed pipeline](https://www.khronos.org/opengl/wiki/Fixed_Function_Pipeline) in old tutorials like [this](http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html).
 - :star:[Getting Started](https://www.khronos.org/opengl/wiki/Getting_Started)
