@@ -47,6 +47,7 @@
 - [Computação Gráfica - UFPB](http://mat.ufpb.br/~lenimar/cgraf/index.html)
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html)
 - :star::book:[The Nature of Code: Simulating natural behaviours and phenomena](https://natureofcode.com/book/)
+- [Debugging For Graphics Programmers](https://www.jeremyong.com/graphics/2021/12/27/debugging-for-graphics-programmers/)
 
 ## General Graphics API
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
