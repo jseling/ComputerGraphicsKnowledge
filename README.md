@@ -157,6 +157,7 @@
 ### Shaders
 - [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
 - [HOW TO READ SHADER ASSEMBLY](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+- [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 
 ### Concepts and Techniques
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
