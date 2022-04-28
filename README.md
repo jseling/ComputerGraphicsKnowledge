@@ -308,6 +308,8 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 ## Unity
 - [Introduction to Asynchronous Programming in Unity](https://www.raywenderlich.com/26799311-introduction-to-asynchronous-programming-in-unity)
 - [Looking into Unity's async/await](https://gametorrahod.com/unity-and-async-await/)
+- [Como iniciar a desenvolver jogos com o Unity 3D](https://www.devmedia.com.br/desenvolva-jogos-com-a-unity-3d/29125)
+- [C# and Shader Tutorials for the Unity Engine](https://catlikecoding.com/unity/tutorials/)
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
