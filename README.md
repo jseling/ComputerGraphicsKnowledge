@@ -313,6 +313,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+- [How do Video Games Stay in Sync? An Intro to the Fascinating Networking of Real Time Games.](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f)
 
 ## AI
 - [Pathfinding Demystified (Part I): Generic Search Algorithm](https://www.gabrielgambetta.com/generic-search.html)
