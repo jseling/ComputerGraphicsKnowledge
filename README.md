@@ -180,6 +180,7 @@
 - [Voxel to Mesh Conversion: Marching Cube Algorithm](https://medium.com/zeg-ai/voxel-to-mesh-conversion-marching-cube-algorithm-43dbb0801359)
 - [An Analysis of Minecraft-like Engines](https://0fps.net/2012/01/14/an-analysis-of-minecraft-like-engines/)
 - [Meshing in a Minecraft Game](https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/)
+- [Meshing in a Minecraft Game (Part 2)](https://0fps.net/2012/07/07/meshing-minecraft-part-2/)
 - [Meshing in Voxel Engines – Part 1](https://blackflux.wordpress.com/2014/02/23/meshing-in-voxel-engines-part-1/)
 - [Meshing in Voxel Engines – Part 2](https://blackflux.wordpress.com/2014/03/01/meshing-in-voxel-engines-part-2/)
 - [Meshing in Voxel Engines – Part 3](https://blackflux.wordpress.com/2014/03/02/meshing-in-voxel-engines-part-3/)
@@ -197,6 +198,7 @@
 - [Smooth Voxel Terrain (Part 1)](https://0fps.net/2012/07/10/smooth-voxel-terrain-part-1/)
 - [Smooth Voxel Terrain (Part 2)](https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/)
 - [surfacenets.js](https://github.com/mikolalysenko/mikolalysenko.github.com/blob/master/Isosurface/js/surfacenets.js)
+- [SDF Documentation](https://github.com/cheind/sdftoolbox/blob/main/doc/SDF.md)
 
 ### Raymarching and radiosity 
 - [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
