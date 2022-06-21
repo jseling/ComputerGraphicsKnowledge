@@ -190,6 +190,13 @@
 - [SVO: what are sparse voxel octrees?](https://stackoverflow.com/questions/985893/what-are-sparse-voxel-octrees)
 - [Marching Cubes Tutorial](https://www.boristhebrave.com/2018/04/15/marching-cubes-tutorial/)
 - :star:[The Perfect Voxel Engine](https://voxely.net/blog/the-perfect-voxel-engine/)
+- [REDDIT Surface nets in Unity with Burst and weird SIMD stuff](https://www.reddit.com/r/VoxelGameDev/comments/vc07s6/surface_nets_in_unity_with_burst_and_weird_simd/)
+- [fastNaiveSurfaceNets](https://github.com/bigos91/fastNaiveSurfaceNets)
+- [fastMarchingCubes](https://github.com/bigos91/fastMarchingCubes)
+- [Naive Surface Nets in C#](https://github.com/TomaszFoster/NaiveSurfaceNets)
+- [Smooth Voxel Terrain (Part 1)](https://0fps.net/2012/07/10/smooth-voxel-terrain-part-1/)
+- [Smooth Voxel Terrain (Part 2)](https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/)
+- [surfacenets.js](https://github.com/mikolalysenko/mikolalysenko.github.com/blob/master/Isosurface/js/surfacenets.js)
 
 ### Raymarching and radiosity 
 - [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
