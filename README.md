@@ -167,6 +167,8 @@
 - :star:[Rendering curves in 3D](https://avikdas.com/2020/09/08/rendering-curves-in-3d.html)
 - :star:[A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 - 🎬 [Freya Holmer - The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
+- [Octahedron normal vector encoding](https://knarkowicz.wordpress.com/2014/04/16/octahedron-normal-vector-encoding/)
+- [Distance Fields](https://prideout.net/blog/distance_fields/)
 
 #### Geometry Images
 - [Twite UE5](https://twitter.com/BrianKaris/status/1260590413003362305)
