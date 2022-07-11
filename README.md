@@ -160,7 +160,7 @@
 - [HOW TO READ SHADER ASSEMBLY](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
 - [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 
-### Concepts and Techniques
+### Concepts, Techniques and Algorithms
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
 - [Rendering equation](https://en.wikipedia.org/wiki/Rendering_equation)
 - [Algorithm for Drawing Trees](https://rachel53461.wordpress.com/2014/04/20/algorithm-for-drawing-trees/)
@@ -169,6 +169,14 @@
 - 🎬 [Freya Holmer - The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw)
 - [Octahedron normal vector encoding](https://knarkowicz.wordpress.com/2014/04/16/octahedron-normal-vector-encoding/)
 - [Distance Fields](https://prideout.net/blog/distance_fields/)
+- [Barnes–Hut simulation n-Body - Wikipedia](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
+- [The Barnes-Hut Algorithm](http://arborjs.org/docs/barnes-hut)
+- [Convex Hull Generation with Quick Hull Randy Gaul](http://www.randygaul.net/wp-content/uploads/2013/11/QuickHull.pdf)
+- [Implementing Quick Hull - Valve](http://box2d.org/files/GDC2014/DirkGregorius_ImplementingQuickHull.pdf)
+- [QuickHull 3D](http://algolist.manual.ru/maths/geom/convhull/qhull3d.php)
+- [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
+- [Hex Grid Geometry for Game Developers ](http://www.gamelogic.co.za/downloads/HexMath2.pdf)
+- [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
 
 #### Geometry Images
 - [Twite UE5](https://twitter.com/BrianKaris/status/1260590413003362305)
@@ -294,15 +302,6 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Pathfinding Algorithms](https://medium.com/@chopra.chet/pathfinding-algorithms-6c0d4febe8fd)
 - [Continuous Genetic Algorithm From Scratch With Python](https://towardsdatascience.com/continuous-genetic-algorithm-from-scratch-with-python-ff29deedd099)
 - [A Practical Guide to State Machines](https://deniskyashif.com/a-practical-guide-to-state-machines/)
-
-# Algorithms
-- [Barnes–Hut simulation n-Body - Wikipedia](https://en.wikipedia.org/wiki/Barnes%E2%80%93Hut_simulation)
-- [The Barnes-Hut Algorithm](http://arborjs.org/docs/barnes-hut)
-- [Convex Hull Generation with Quick Hull Randy Gaul](http://www.randygaul.net/wp-content/uploads/2013/11/QuickHull.pdf)
-- [Implementing Quick Hull - Valve](http://box2d.org/files/GDC2014/DirkGregorius_ImplementingQuickHull.pdf)
-- [QuickHull 3D](http://algolist.manual.ru/maths/geom/convhull/qhull3d.php)
-- [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
-- [Hex Grid Geometry for Game Developers ](http://www.gamelogic.co.za/downloads/HexMath2.pdf)
 
 # CAD
 - [A New Era for Mechanical CAD: Time to move forward from decades-old design](https://queue.acm.org/detail.cfm?id=3469844)
