@@ -177,6 +177,7 @@
 - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 - [Hex Grid Geometry for Game Developers ](http://www.gamelogic.co.za/downloads/HexMath2.pdf)
 - [The Wavefunction Collapse Algorithm explained very clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)
+- [Visualizing Delaunay Triangulation](https://ianthehenry.com/posts/delaunay/)
 
 #### Geometry Images
 - [Twite UE5](https://twitter.com/BrianKaris/status/1260590413003362305)
