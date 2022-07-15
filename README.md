@@ -99,6 +99,7 @@
 - [Itch.io](https://itch.io/game-assets/free/tag-3d)
 - [Kenney](https://www.kenney.nl/)
 - [Tree It - Simple Tree Creator](http://www.evolved-software.com/treeit/treeit)
+- [Tree It - TUTORIAL](https://www.youtube.com/watch?v=hojwx9Hxz9w&ab_channel=PrismaticaDev)
 
 ## Math
 - :star:[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
