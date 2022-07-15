@@ -97,6 +97,8 @@
 - [Kay Lousberg](https://kaylousberg.com/game-assets)
 - [Quaternius](https://quaternius.com/index.html)
 - [Itch.io](https://itch.io/game-assets/free/tag-3d)
+- [Kenney](https://www.kenney.nl/)
+- [Tree It - Simple Tree Creator](http://www.evolved-software.com/treeit/treeit)
 
 ## Math
 - :star:[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
