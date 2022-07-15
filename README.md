@@ -239,6 +239,7 @@
 
 ## Procedural Geometry
 - [Intro to Procedural Geometry, Part 1](https://lindenreid.wordpress.com/2018/01/20/intro-to-procedural-geometry-part-1/)
+- [Procedural Generation Tutorials](https://www.youtube.com/playlist?list=PLrMEhC9sAD1zprGu_lphl3cQSS3uFIXA9)
 
 ### Terrain Rendering
 - [Real-Time Optimally Adapting Meshes: Terrain Visualization in Games](https://www.hindawi.com/journals/ijcgt/2008/753584/)
