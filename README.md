@@ -158,6 +158,7 @@
 - [Learning About Ray Tracing](https://siliconsprawl.com/2020/08/02/ray-tracers.html)
 - [Daily Pathtracer Part 0: Intro](https://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-0-Intro/)
 
+
 ### Shaders
 - [Getting started with shaders: signed distance functions!](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
 - [HOW TO READ SHADER ASSEMBLY](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
@@ -328,6 +329,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Como iniciar a desenvolver jogos com o Unity 3D](https://www.devmedia.com.br/desenvolva-jogos-com-a-unity-3d/29125)
 - :STAR:[C# and Shader Tutorials for the Unity Engine](https://catlikecoding.com/unity/tutorials/)
 - [Runtime Mesh Manipulation With Unity](https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity)
+- [GPU Ray Tracing in Unity – Part 1](http://three-eyed-games.com/2018/05/03/gpu-ray-tracing-in-unity-part-1/)
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
