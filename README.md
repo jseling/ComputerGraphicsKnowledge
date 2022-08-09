@@ -383,5 +383,8 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 ## OpenCL
 - [A Gentle Introduction to OpenCL](https://www.drdobbs.com/parallel/a-gentle-introduction-to-opencl/231002854)
 
+## General Simulation
+- [Simulating an Entire Car Engine (yes, it makes noise)](https://www.youtube.com/watch?v=RKT-sKtR970)
+
 ## Opinions
 - [Write Games, Not Engines](https://geometrian.com/programming/tutorials/write-games-not-engines/)
