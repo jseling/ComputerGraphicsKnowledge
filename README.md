@@ -6,6 +6,7 @@
 - :star:[The Graphics Codex](https://graphicscodex.courses.nvidia.com/app.html)
 - :star:[Geometric Tools](https://www.geometrictools.com/Documentation/Documentation.html)
 - [Inigo Quilez](https://iquilezles.org/www/index.htm)
+- [Jacco's Blog](https://jacco.ompf2.com/category/tutorial/)
 
 ## Articles
 - :star:[Drinking from the Firehose: Learning Computer Graphics Techniques and Programming](https://miketuritzin.com/post/how-to-learn-computer-graphics-techniques-and-programming/)
