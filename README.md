@@ -215,6 +215,7 @@
 - [Smooth Voxel Terrain (Part 2)](https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/)
 - [surfacenets.js](https://github.com/mikolalysenko/mikolalysenko.github.com/blob/master/Isosurface/js/surfacenets.js)
 - [SDF Documentation](https://github.com/cheind/sdftoolbox/blob/main/doc/SDF.md)
+- [Voxel Planets: Procedural generation of planets with dynamic terrain](https://josebasierra.gitlab.io/VoxelPlanets)
 
 ### Raymarching and radiosity 
 - [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
