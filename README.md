@@ -329,9 +329,13 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Introduction to Asynchronous Programming in Unity](https://www.raywenderlich.com/26799311-introduction-to-asynchronous-programming-in-unity)
 - [Looking into Unity's async/await](https://gametorrahod.com/unity-and-async-await/)
 - [Como iniciar a desenvolver jogos com o Unity 3D](https://www.devmedia.com.br/desenvolva-jogos-com-a-unity-3d/29125)
-- :STAR:[C# and Shader Tutorials for the Unity Engine](https://catlikecoding.com/unity/tutorials/)
+- :star: [C# and Shader Tutorials for the Unity Engine](https://catlikecoding.com/unity/tutorials/)
 - [Runtime Mesh Manipulation With Unity](https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity)
 - [GPU Ray Tracing in Unity – Part 1](http://three-eyed-games.com/2018/05/03/gpu-ray-tracing-in-unity-part-1/)
+- [Day 1: Game Developer Aspirant (How I learned the root navigational basics of Unity)](https://medium.com/@little_michael101/day-1-game-developer-aspirant-how-i-learned-the-root-navigational-basics-of-unity-e1a1c36329ba)
+- [Intro to 2Dn3D Physics](https://medium.com/@lagallardo5426/intro-to-2dn3d-physics-98a646345be3)
+- [2D/3D OnCollision/OnTrigger](https://medium.com/@lagallardo5426/2d-3d-oncollision-ontrigger-70320260494)
+- [Instantiate to Destroy or Pool?](https://medium.com/@lagallardo5426/instantiate-to-destroy-or-pool-c7220ca989e3)
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
