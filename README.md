@@ -53,6 +53,7 @@
 
 ## General Graphics API
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
+- [Rendergraphs and how to implement one](https://poniesandlight.co.uk/reflect/island_rendergraph_1/)
 
 ## OpenGL
 - Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview) (shaders) instead of only the old [fixed pipeline](https://www.khronos.org/opengl/wiki/Fixed_Function_Pipeline) in old tutorials like [this](http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html).
@@ -271,6 +272,15 @@
 
 ## Animation
 - [How skeletal animation actually works](https://lunarlabs.pt/blog/post/how_skeletal_animation_actually_works)
+
+## Modeling assets
+
+### Vegetation and trees
+- :clapper:[Fluffy stylized trees tutorial, using quadmesh-to-billboards shader in Unity](https://www.youtube.com/watch?v=iASMFba7GeI)
+- :clapper:[How to Make a Stylized Tree by using Blender and Unity](https://www.youtube.com/watch?v=wPBX9kqcHzE)
+- :clapper:[The ULTIMATE Guide for Creating Grass and Vegetation For Video Games 🌱](https://www.youtube.com/watch?v=ek9kK6zmMf8)
+- [Airborn – Trees](https://simonschreibt.de/gat/airborn-trees/)
+- [REDDIT: I recreated the foliage shader from "The Witness" in Amplify Shader Editor](https://www.reddit.com/r/Unity3D/comments/eb3qr3/i_recreated_the_foliage_shader_from_the_witness/)
 
 ## Tetris
 - [Learning Modern JavaScript with Tetris](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
