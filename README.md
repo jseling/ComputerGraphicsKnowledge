@@ -346,6 +346,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Intro to 2Dn3D Physics](https://medium.com/@lagallardo5426/intro-to-2dn3d-physics-98a646345be3)
 - [2D/3D OnCollision/OnTrigger](https://medium.com/@lagallardo5426/2d-3d-oncollision-ontrigger-70320260494)
 - [Instantiate to Destroy or Pool?](https://medium.com/@lagallardo5426/instantiate-to-destroy-or-pool-c7220ca989e3)
+- [BEST PRACTICES FOR RIGID BODIES IN UNITY](https://digitalopus.ca/site/using-rigid-bodies-in-unity-everything-that-is-not-in-the-manual/)
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
