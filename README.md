@@ -217,6 +217,7 @@
 - [surfacenets.js](https://github.com/mikolalysenko/mikolalysenko.github.com/blob/master/Isosurface/js/surfacenets.js)
 - [SDF Documentation](https://github.com/cheind/sdftoolbox/blob/main/doc/SDF.md)
 - [Voxel Planets: Procedural generation of planets with dynamic terrain](https://josebasierra.gitlab.io/VoxelPlanets)
+- [Metaballs and Marching Squares](https://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/)
 
 ### Raymarching and radiosity 
 - [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
@@ -254,7 +255,7 @@
 - :star:[Virtual Terrain Project](http://vterrain.org/)
 - [Simulating Erosion: An experiment](https://medium.com/@alberttheblacksheep/simulation-erosion-a-experiment-3cfd5c592b34)
 
-### Perlin Noise
+### Noise (Perlin, Simplex,...)
 - [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 - [Understanding Perlin Noise](https://flafla2.github.io/2014/08/09/perlinnoise.html)
 - [Ruído de Perlin](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
@@ -398,6 +399,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Barebones 3D rendering with WebGL](https://avikdas.com/2020/07/21/barebones-3d-rendering-with-webgl.html)
 - [Rain & Water Effect Experiments](https://tympanus.net/codrops/2015/11/04/rain-water-effect-experiments/)
 - [Recreating Real-World Terrain With React, Three.js & WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
+- [How to build stunning 3D scenes with React Three Fiber](https://varun.ca/modular-webgl/)
 
 ## OpenCL
 - [A Gentle Introduction to OpenCL](https://www.drdobbs.com/parallel/a-gentle-introduction-to-opencl/231002854)
