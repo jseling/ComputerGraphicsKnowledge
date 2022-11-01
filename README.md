@@ -312,7 +312,8 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [The Pulfrich effect - Which colour scheme is better?](https://stitcher.io/blog/why-light-themes-are-better-according-to-science)
 - [Ditherpunk](https://surma.dev/things/ditherpunk/)
 - [Mapping concepts to colors (terribly) with the Oklab perceptual colospace](https://nessuent.xyz/posts/2021-08-17_concept_to_color.html)
-- [Dan Hollick: Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
+- :star:[Dan Hollick: Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
+- [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
 
 ## Light and Shadow
 - [Light and Shadows](https://ciechanow.ski/lights-and-shadows/)
