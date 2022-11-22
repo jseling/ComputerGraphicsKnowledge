@@ -337,6 +337,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Reddit: How Does Multiplayer / Networking Work?](https://en.reddit.com/r/gamedev/comments/d7u27u/how_does_multiplayer_networking_work/)
 - [Homebrew Voxel Engine](http://weigert.vsos.ethz.ch/2019/10/27/homebrew-voxel-engine/)
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
+- [How to Make a Roguelike](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 
 ## Unity
 - [Introduction to Asynchronous Programming in Unity](https://www.raywenderlich.com/26799311-introduction-to-asynchronous-programming-in-unity)
