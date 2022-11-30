@@ -55,6 +55,9 @@
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 - [Rendergraphs and how to implement one](https://poniesandlight.co.uk/reflect/island_rendergraph_1/)
 
+## Case studies
+- [Behind the Pretty Frames: Death Stranding](https://mamoniem.com/behind-the-pretty-frames-death-stranding/)
+
 ## OpenGL
 - Learn the new [programmable pipeline](https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview) (shaders) instead of only the old [fixed pipeline](https://www.khronos.org/opengl/wiki/Fixed_Function_Pipeline) in old tutorials like [this](http://www.cs.uccs.edu/~ssemwal/indexGLTutorial.html).
 - 
