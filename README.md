@@ -357,6 +357,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [BEST PRACTICES FOR RIGID BODIES IN UNITY](https://digitalopus.ca/site/using-rigid-bodies-in-unity-everything-that-is-not-in-the-manual/)
 - [jornadadodev: Curso Básico de Unity 3D](https://jornadadodev.com.br/cursos/curso-basico-de-unity-3d)
 - [Question: What does IEnumerator do? i just can't figure it out](https://www.reddit.com/r/Unity3D/comments/yc8fi1/question_what_does_ienumerator_do_i_just_cant/)
+- [Vionix Studio: Learn unity](https://vionixstudio.com/learn-unity-game-engine/)
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
