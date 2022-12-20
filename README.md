@@ -233,8 +233,9 @@
 - [How to decompress/deflate PDF Stream](https://stackoverflow.com/questions/42355485/how-to-decompress-deflate-pdf-stream)
 
 
-## Hand Made Rendering
+## Hand Made Rendering (WTF!?!)
 - [austin/soft-3d-renderer](https://code.austinmorlan.com/austin/soft-3d-renderer/src/branch/master)
+- [How to draw ugly lines really fast](https://cohost.org/tomforsyth/post/648716-how-to-draw-ugly-lin)
 
 ## Terrain generation
 - [3d terrain generation REDDIT TALK](https://en.reddit.com/r/proceduralgeneration/comments/2x529j/lets_talk_about_terrain_generation_in_3d_warning/)
