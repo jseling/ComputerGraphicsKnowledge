@@ -309,6 +309,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Random RGB values that average to N; or, Pointlessness and Probability](https://kevingal.com/blog/rgb-average.html)
 - [RGB/XYZ Conversion Matrix Accuracy](http://terathon.com/blog/rgb-xyz-conversion-matrix-accuracy/)
 - [Digital Color Management Guide](https://hg2dc.com/)
+- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 - [Protecting a Story’s Future with History and Science](https://netflixtechblog.com/protecting-a-storys-future-with-history-and-science-e21a9fb54988)
 - [Read color hex codes](https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes)
 - [Color Spaces](https://ciechanow.ski/color-spaces/)
