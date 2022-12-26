@@ -222,6 +222,7 @@
 - [SDF Documentation](https://github.com/cheind/sdftoolbox/blob/main/doc/SDF.md)
 - [Voxel Planets: Procedural generation of planets with dynamic terrain](https://josebasierra.gitlab.io/VoxelPlanets)
 - [Metaballs and Marching Squares](https://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/)
+- :clapper:[Davis Morley - Optimism in Design](https://vimeo.com/783228488)
 
 ### Raymarching and radiosity 
 - [Raymarching Voxel Rendering](https://medium.com/@calebleak/raymarching-voxel-rendering-58018201d9d6)
