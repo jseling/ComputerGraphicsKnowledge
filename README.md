@@ -371,6 +371,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - :star:[Code Monkey: Best Unity Tutorials 2020](https://unitycodemonkey.com/best2020.php)
 - :star:[Code Monkey: Best Unity Tutorials 2021](https://unitycodemonkey.com/best2021.php)
 - :star:[Code Monkey: Best Unity Tutorials 2022](https://unitycodemonkey.com/best2022.php)
+- [An Introduction to LINQ in Unity](https://jaredamlin.medium.com/an-introduction-to-linq-in-unity-8b4d66af0b60)
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
