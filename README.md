@@ -373,6 +373,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - :star:[Code Monkey: Best Unity Tutorials 2022](https://unitycodemonkey.com/best2022.php)
 - [An Introduction to LINQ in Unity](https://jaredamlin.medium.com/an-introduction-to-linq-in-unity-8b4d66af0b60)
 - [Jason Weimann: Clean Coding Principles](https://game.courses/intermediate/)
+- [Jason Weimann: Unity3D College](https://unity3d.college/)
 
 ## Network
 - [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
