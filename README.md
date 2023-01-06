@@ -288,6 +288,7 @@
 - :clapper:[The ULTIMATE Guide for Creating Grass and Vegetation For Video Games 🌱](https://www.youtube.com/watch?v=ek9kK6zmMf8)
 - [Airborn – Trees](https://simonschreibt.de/gat/airborn-trees/)
 - [REDDIT: I recreated the foliage shader from "The Witness" in Amplify Shader Editor](https://www.reddit.com/r/Unity3D/comments/eb3qr3/i_recreated_the_foliage_shader_from_the_witness/)
+- [Creating fluffy trees with Three.js (part 1)](https://douges.dev/blog/threejs-trees-1)
 
 ## Tetris
 - [Learning Modern JavaScript with Tetris](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
