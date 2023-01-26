@@ -171,6 +171,7 @@
 - [A Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages)
 
 ### Concepts, Techniques and Algorithms
+- :star::book:[Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 - [Cornell box](https://en.wikipedia.org/wiki/Cornell_box)
 - [Rendering equation](https://en.wikipedia.org/wiki/Rendering_equation)
 - [Algorithm for Drawing Trees](https://rachel53461.wordpress.com/2014/04/20/algorithm-for-drawing-trees/)
