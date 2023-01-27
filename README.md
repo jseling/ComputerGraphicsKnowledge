@@ -98,13 +98,14 @@
 - [Getting started with D3D12](https://anteru.net/blog/2015/getting-started-with-d3d12/)
 - [DX12 Useful links](https://devblogs.microsoft.com/directx/useful-links/)
 
-## 3D Assets
+## Assets
 - [Kay Lousberg](https://kaylousberg.com/game-assets)
 - [Quaternius](https://quaternius.com/index.html)
 - [Itch.io](https://itch.io/game-assets/free/tag-3d)
 - [Kenney](https://www.kenney.nl/)
 - [Tree It - Simple Tree Creator](http://www.evolved-software.com/treeit/treeit)
 - [Tree It - TUTORIAL](https://www.youtube.com/watch?v=hojwx9Hxz9w&ab_channel=PrismaticaDev)
+- [FREE 100+ Song Music Library!](https://sulosounds.itch.io/100-songs)
 
 ## Math
 - :star:[Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
