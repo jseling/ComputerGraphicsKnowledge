@@ -349,6 +349,9 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [How I made a 3D game in only 2KB of JavaScript](http://frankforce.com/?p=7427)
 - [How to Make a Roguelike](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/)
 
+## Patterns
+- [REDDIT: what are some game design patterns that you wish you knew earlier?](https://www.reddit.com/r/gamedev/comments/10qtoe4/what_are_some_game_design_patterns_that_you_wish/)
+
 ## Unity
 - [Introduction to Asynchronous Programming in Unity](https://www.raywenderlich.com/26799311-introduction-to-asynchronous-programming-in-unity)
 - [Looking into Unity's async/await](https://gametorrahod.com/unity-and-async-await/)
