@@ -324,6 +324,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [Mapping concepts to colors (terribly) with the Oklab perceptual colospace](https://nessuent.xyz/posts/2021-08-17_concept_to_color.html)
 - :star:[Dan Hollick: Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 - [Perceptually uniform color spaces](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/)
+- :star:[Poline is an enigmatic color palette generator](https://meodai.github.io/poline/?utm_source=ridd-tweet&utm_medium=ridd&utm_campaign=ridd)
 
 ## Light and Shadow
 - [Light and Shadows](https://ciechanow.ski/lights-and-shadows/)
