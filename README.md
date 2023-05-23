@@ -128,6 +128,7 @@
 - :book:[Linear Algebra by Jim Hefferon](https://hefferon.net/linearalgebra/)
 - [The most useful math formulas](http://blog.pkh.me/p/29-the-most-useful-math-formulas.html)
 - :book:[Mathematical recipes (early draft)](https://math.recipes/Math-recipes.pdf)
+- [Easing functions specify the rate of change of a parameter over time](https://easings.net/)
 
 ## Physics
 - [A silly contraption using a JavaScript physics engine](http://slicker.me/javascript/physics_experiment.htm)
