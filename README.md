@@ -342,6 +342,8 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 - [A New Era for Mechanical CAD: Time to move forward from decades-old design](https://queue.acm.org/detail.cfm?id=3469844)
 
 # GameDev
+- :star:[Gamedev problems](https://www.tommynorberg.com/gamedevproblems)
+- [Books for gamedevs](https://80.lv/articles/80-level-ratings-great-books-for-aspiring-game-developers/)
 - [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
 - [How to Build a Multiplayer (.io) Web Game, Part 1](https://victorzhou.com/blog/build-an-io-game-part-1/)
 - [Let’s Make: Dangerous Dave](https://www.maizure.org/projects/lets-make-dangerous-dave/index.html)
@@ -391,6 +393,12 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 
 ## AI
 - [Pathfinding Demystified (Part I): Generic Search Algorithm](https://www.gabrielgambetta.com/generic-search.html)
+
+## Game design and level design
+- [The Level Design Book](https://book.leveldesignbook.com/introduction)
+- [LD Bait and Switch](https://www.tommynorberg.com/post/bait-and-switch)
+- [Level Design ORG](https://level-design.org/?page_id=2468)
+- [Books for game designers](https://80.lv/articles/80-level-digest-great-books-for-aspiring-game-designers/)
 
 # Delphi/Pascal
 - [Direct3D 10, 10.1 and 11 Delphi interface units (headers)](http://directxfordelphi.blogspot.com/2009/09/direct3d-11-delphi-interface-units.html)
