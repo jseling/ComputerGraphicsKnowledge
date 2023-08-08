@@ -396,6 +396,7 @@ Web graphics, good to the last byte](https://evilmartians.com/chronicles/images-
 
 ## Game design and level design
 - [The Level Design Book](https://book.leveldesignbook.com/introduction)
+- :star:[Video Game Museu: Levels - WebView](https://noclip.website/)
 - [LD Bait and Switch](https://www.tommynorberg.com/post/bait-and-switch)
 - [Level Design ORG](https://level-design.org/?page_id=2468)
 - [Books for game designers](https://80.lv/articles/80-level-digest-great-books-for-aspiring-game-designers/)
