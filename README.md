@@ -136,6 +136,7 @@
 - [Simulating Object Collisions With Canvas](https://joshbradley.me/object-collisions-with-canvas/)
 - [Creating a 2D physics engine from scratch in Javascript](https://ailef.tech/2022/11/12/creating-a-2d-physics-engine-from-scratch-in-javascript/)
 - [Brickadia - Fast Collisions for Large Editable Vehicles](https://brickadia.com/blog/devlog-4/)
+- [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
 
 ## Rendering
 - :star:[Tinyrenderer tutorials](https://github.com/ssloy/tinyrenderer/wiki)
